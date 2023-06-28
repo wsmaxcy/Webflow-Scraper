@@ -1,0 +1,14 @@
+Date,Name,Comment
+15/07/2022,Miek Thompson,I must find replace text in over 100 CMS items. Its quite painstaking because it takes a while to lookup replace then there is a long delay between saving between CMS items. Bulk CMS Find Replace batch edit would be a life saver!
+07/02/2022,Mike Powis,2017 and this still isn't implemented! I was hoping this would be a feature of the CMS update we recently got.Being able to batch edit CMS items would be a life saver - even if its limited to one field at a time.
+24/11/2021,Sophie Mona Pagès,Wow I have just realized this is needed and it's painful 😅
+13/03/2021,Tansen BEL,It's essential especially for e-commerce !
+31/01/2021,Lykad Studios,Imaine having 500+ products and having to edit one thing to all of them one by one. Bulk editing products/cms items is a must and really doesnt sound like a overly difficult feature to implement.
+04/01/2021,Campbell McKenzie,Duplicate would be ace as a minor feature 'till you can edit fields in the CMS Designer View (without opening an entry) to help streamline creating similar items (even if it doesn't let you save until you've changed Name/Slug)
+29/05/2020,Toby Egbuna,YES. I actually thought for a second that I was doing something wrong until I found this thread. Webflow CMS is great for importing but managing data and having to make edits to it is a pain. Also not being able to import data and link it to reference fields is another pain. This is a huge need.
+17/05/2020,Brent Goldman,This is important.
+14/11/2019,Fixxo Technologies,A must feature to have. Currently there is options to Delete Draft Archive.
+02/10/2019,Emelie Carlsson Gras,Totally needed if you work with databases you must be able to edit fieds quickly.
+23/05/2019,José Ernesto Rodríguez,💯 In my case I already had dozens of items and wanted to either just invert a switch or change from a switch to an option field. Webflow is so good for settings this up but once you want to do a change to many existing items it’s a lot of manual effort.
+12/01/2019,Bill Hamway,I've been working a project with lots of data and not being able to import CSV with Reference to another Collection is a real pain.
+29/08/2018,Avi Phillips,It would also be great to do what was mentioned above:  be able to import CSV files to match up to Reference fields.  Otherwise I'd have to edit each group of CMS items separately instead of having all the tags/categories/etc. map on import.

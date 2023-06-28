@@ -1,0 +1,8 @@
+Date,Name,Comment
+28/04/2023,Kyle Kirchgessner,PLEASE!!!
+07/07/2022,Web LoveWell,Just saying Wix has this feature and Webflow doesn't. That should be enough for them to add it ASAP.
+16/04/2022,Daniel Blaho,This would be a fantastic upgrade! Next clip-path. The possibilities... phew man that would awesome.
+27/01/2022,Lasse Wennerholm Linding,We need this! I'm forced to upload my image content as png's..
+23/06/2021,Xanthe,I'm sad that this isn't a thing yet - have to still add custom code to get a shadow on a SVG instead of around its container :(
+12/04/2021,Trilo,I've been trying to figure out if this is possible. Any updates here webflow?
+27/11/2018,Tony Mungiguerra,It is way more logical to apply the shadow to the image rather than the image's container. I'm a bit stumped as to why it works the way it does since you can apply shadows to whatever when you are actually writing CSS.

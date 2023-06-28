@@ -1,0 +1,3 @@
+Date,Name,Comment
+12/06/2018,Vic A Ruiz,I also use SASS in my workflow so I tried changing the extension of both .css files exported from Webflow to .scss and imported them into my style.scss. Some of the styling gets messed up. I'm trying to figure out why.
+26/11/2017,Kiandra Plummer,I second this comment. I just recently started integrating SASS into my workflow and I don't plan to go back to just using CSS.

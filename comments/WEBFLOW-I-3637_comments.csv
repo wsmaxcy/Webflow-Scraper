@@ -1,0 +1,3 @@
+Date,Name,Comment
+14/12/2022,Justin Gambino,Hi All I found a workaround as I had 600+ Products with Custom fields to export which had a lot of content. This worked perfectly export through the Webflow API to Google Sheets just keep in mind the API limits you have to export in batches of around 50 products at a time but was quite quick and easy to do. If you have more than 100 products you'll need to use the pagination feature on their program which requires a pro membership for around $150 but it works great. Links below enjoy.
+29/09/2022,Timothy Bowers,Cant believe they enable you to do that on the CMS but not in the product area. Its the same concept and I dont see why you wouldnt just to the same for both. How

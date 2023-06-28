@@ -1,0 +1,21 @@
+Date,Name,Comment
+04/05/2023,Greg Cappello,Does anyone have a workaround for this? I would simply like to delete a page with the option to re-publish at some point and not trash it forever. Duplicate the whole site? Would I be able to later bring the page back in from a separate site or no?
+23/03/2023,Jenny,Not having this fundamental capability is a major pain point right now...
+06/03/2023,Rory Braatvedt,We need this feature for static pages. When working on a new design for a core page of the website I basically cannot publish ANY other changes made to ANY other pages except CMS... I have clients questioning if this is the right tool for the job.
+17/01/2023,Maggie Tagoe,Really shocked that Webflow does not allow you to select which static pages to publish. What a disappointment. Please add this feature.
+12/10/2022,Jeff Couturier,As a dev it's insane to me that this isn't a basic feature. What kind of mess is lurking under the hood that makes it this difficult to un-publish a static page?
+16/09/2022,Jimmy Cameron,has this been resolved? Pathetic if not seems like an easy fix and everyone clearly wants it.
+10/06/2022,Brian Aberle,I'm not an expert web designer but a business owner currently using Squarespace. Within Squarespace I can take a single page work on a draft for that page and bring it back online without blowing up the entire site. How is that not an option within Webflow still? Do visitors to the site get to watch us do live updates to the site pages while we're working on it? In 2022?
+04/06/2022,Webflow Admin,You're correct. This is available for CMS pages/items and not static pages. Reopened the idea.
+03/06/2022,Gareth Reynolds,This is cool although it doesn't solve the original idea. The above only works for CMS content. The original idea is that it's on a per page level. You can publish one single page without publishing every page. This way you can work on updating multiple pages at the same time and not have to worry about other page updates going live half finished.
+02/06/2022,Webflow Admin,Shipped—Remove CMS content without publishing your entire site
+01/04/2022,Studio DNVR,Regarding publishing individual pages instead of the entire site this is what the Webflow support told me:
+21/03/2022,Gareth Reynolds,Just to agree with people that say in reality the solution implemented for this particular request doesn't really solve the issue.
+17/03/2022,Ben Schweitzer,The current implementation of this feature is not a viable solution for most users especially businesses with teams. If the page I am drafting already exists on the live site upon publishing that draft page will disappear from your live site. I am drafting a new version of an existing page--it doesn't mean you remove the old live page.
+14/03/2022,CabbageApps,ADMINS any update on this? This is not shipped!
+08/03/2022,Angel Torres,Wow is this really not being tackled yet? How is this marked shipped? - Admins please address.
+28/02/2022,Adamant,Crazy. Fix this.
+09/02/2022,Ruthy Lichtenstein,This is basics... ouch :/
+08/02/2022,Luke Andrews,The inability to publish design changes to a single page (e.g. to fix a bug) while not publishing other pages that are mid-flight (working on major updates) is a real showstopper for our company. It will be one of the key reasons we stop using Webflow.
+27/01/2022,Kelly Van Arsdle,Ping. This is really necessary. I am shocked this hasn't been implemented yet.
+11/01/2022,Farid Bonawiede,Admin please remove the "Shipped" tag. This feature is not live!

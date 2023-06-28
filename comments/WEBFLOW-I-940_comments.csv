@@ -1,0 +1,21 @@
+Date,Name,Comment
+31/10/2022,Gaby Hung,Very frustrating not being able to fix this for my clients!
+13/10/2022,Lisa Richards,AGREE!!!  Someone else should not be able to unsubscribe your email address from your website forms!!! Such a critical issue THIS NEEDS TO BE FIXED
+30/08/2022,Nathan Marks,Voted! Just recently joined the Webflow community and this feels like a dealbreaker. If it does not get fixed soon will have to look into using other forms.
+13/04/2022,Steve Filmer,I understand that they need to keep the unsubscribe link on the emails but that is not where the core issue of this is. Someone else should not be able to unsubscribe your email address from your website forms!!! Such a critical issue...
+11/02/2022,Noel Braganza,This was posted in 2017. Any update on this @Webflow?
+21/12/2021,James Bogue,I have found a workaround to this issue. Use a 3rd party solution such as Integromat.   I am able to setup form submissions on Webflow to trigger an email that is formatted in Integromat using nodes.  Hope that helps people looking or an interim solution: https://www.integromat.com/en/integrations/webflow
+29/06/2021,JM Kriz,This is pretty much happening to at least one of my clients on a weekly basis at this point. Can we give this one at least a review? You appear to making an effort to at least mark some of these wishlist items as reviewed if nothing else.
+10/05/2021,Darren Squashic,So sick of dealing with this issue. I wrote a post on the forum about this issue with some simple ideas for improving the situation if Webflow continues to insist that the unsubscribe link needs to stay in the emails. https://forum.webflow.com/t/my-client-has-been-accidentally-unsubscribed-from-his-own-contact-form-email-notifications/170273
+15/04/2021,Jeff,This is still a thing? I cannot even believe it what a terrible oversight. We cannot even use the form feature now it's useless.
+16/02/2021,Alex Dixon,Agreed this seems oversight on the Webflow system.
+08/12/2020,Gene Jeter,As it is now our customers can literally unsubscribe us from our own support emails. Big problem.
+10/08/2020,Gene Cavender,We use email to reply to as it integrates into a helpdesk for our staff. Please add the ability to remove
+12/06/2020,Jack William,Introducing: Worthy Bonds. Earn 5% Annual Return on Investment: Earn 5% fixed returns. Invest in Worthy Bonds today for as low as $10. Diversify your investment portfolio. Buy Worthy bonds online. Bonds for sale
+23/08/2019,Joshua Klein,Please be aware that if you remove the unsubscribe link most email provider will block the mails then. Because this is a high criteria for those email providers to eliminate mails without an unsubscribe link.
+23/07/2019,Anke Saini,This allow you most of the suitable options which you can confirm for the free checkers and every regular basis information works here easily with the given authority. Thanks a lot
+19/10/2018,Marc-Olivier Lafontaine,I second Michael Wells. At least have a warning message and confirmation button so that clients don't unsubscribe by accident.
+10/07/2018,Andrew Hersh,It is absolutely insane that this glaring security issue is a wishlist item...
+20/06/2018,John Sellers,Ummm if a customer hits unsubscribe on accident... how the hell do you fix it so they receive again?
+21/03/2018,Amery Winter,Check out this thread. It covers the entire massive issue regarding this subject! Please get on it. It's a nightmare and should be tackled immediately since it is not just a nice to have thing. People (me included) are seriously considering leaving webflow due to this.
+06/12/2017,Michael Wells,At the bare minimum if the unsubscribe link is clicked the impact to the client must be clearly explained. I.e. "you will no longer receive any lead notifications from your website. Are you sure?"

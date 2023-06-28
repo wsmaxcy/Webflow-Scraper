@@ -1,0 +1,19 @@
+Date,Name,Comment
+14/12/2022,Justin Gambino,Hi All I found a workaround as I had 600+ Products with Custom fields to export which had a lot of content. This worked perfectly export through the Webflow API to Google Sheets just keep in mind the API limits you have to export in batches of around 50 products at a time but was quite quick and easy to do. If you have more than 100 products you'll need to use the pagination feature on their program which requires a pro membership but it works great. Links below enjoy.
+08/12/2022,Astroic ‎,Hey all
+24/10/2022,WebRenew,Come on webflow - this can't be that hard to fix
+11/08/2022,Barro,If a company is selling a service that includes ecommerce implementation the ability to Import Update Delete all assets necessary is a bare minimum. Waiting years for this feature let alone more than 3 years is simply insulting. Please do something!!!
+11/04/2022,Elchin Huseynli,Same here much requested features. This is so annoying when you have more than 1K products. I tried exporting using Integromat and it costed me 70$ but then realised that there were couple of issues with some custom fields and had to pay again the same amount. Webflow please do something.
+11/03/2022,Dustin Thompson,Reading through the comments here. These folks are right. Import Update Delete are pretty necessary for managing product feeds.  And 3 years with no improvement is pretty sad.
+11/03/2022,Dustin Thompson,Ecomm is totally unusable without this ability. I'll have to take a hard pass and find a better platform.
+17/02/2022,Garry Weisblum,It's unbelievable how this simple feature is not available
+07/12/2021,Designer HMAC,Exporting custom fields - and the ability to update existing products is an absolute must.
+07/12/2021,Teresa Taylor,I agree this is a vital feature for functional ecommerce. Without it we cannot make changes to items without either losing most of the data or having to open one item at a time. For anyone with an inventory of several hundred items this is a no go.
+18/09/2021,Burak Özdelice,any news about this please?!
+15/03/2021,Pedro Costa,Any news on this?
+04/03/2021,James Walker,Any update on this at all? Just discovered this when I wanted to do some analysis on my client's products in Webflow... all their data is therefore currently locked in and i can't get to it!
+28/02/2021,Matt Connelly,It seems pretty nonesensical that this is not there by default. Ecom is a no go until this is standard. This is pretty basic stuff
+12/02/2021,Hugo Cuesta,Any news on this bug? This feature is key for any ecommerce marketplace!
+03/12/2020,Novella Outdoors,This greatly impacts our company's ability to track and assess our marketplace! Please update at least allow custom fields to be exported.
+03/12/2020,Nick Bohlen,Yes this is a no-go at the moment. This functionality is vital to ecommerce!
+22/04/2020,Jason Meunier,For me it's very important that it's possible to export the custom fields!

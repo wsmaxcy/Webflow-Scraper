@@ -1,0 +1,4 @@
+Date,Name,Comment
+20/01/2017,Akari Sánchez,Hi! Two things:
+19/01/2017,Martin,It is and like a lot of SASS it's incredibly useful. I had to hand code some old fashioned CSS yesterday (needed a stled sata table in webflow but that's another feature request...) and it was like pulling teeth...
+18/01/2017,Diarmuid Sexton,I'm all for this. From what I've read this is one of the core features of SASS - where the user can set a variable i.e. font color:red - and reference this variable within any class - giving that class the font color of red. If the user then changes the value of this variable - the color will change across all classes where it is referenced. This would be similar to a color swatch in photoshop - if a colour is updated on the swatch - it is updated everywhere it is referenced.

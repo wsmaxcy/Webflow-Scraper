@@ -1,0 +1,4 @@
+Date,Name,Comment
+01/12/2020,Eddie Velez,Agreed I seem to be having some issues with pro portrait mode.
+13/11/2018,William D'Aust,ipad landscape portrays the desktop view so does android devices with high pixel density in landscape view. you either have to make the desktop version friendly for those modes or just ignore them completely. (or use some kind of javascript to prevent desktop view in those modes)
+30/07/2018,Webflow Team,Designing across different breakpoints is best when you're using % VH or VW units instead of fixed pixels: https://www.youtube.com/watch?v=UVQPL_oOfQY

@@ -1,0 +1,10 @@
+Date,Name,Comment
+08/02/2020,Julian Fung,Webflow has color swatches you can make which changes all associated colors with that swatch in the designer. It's definitely helpful but if webflow were to take one more step and implement it into actual CSS style variables on code export that'd be awesome.
+07/11/2018,Tim Daff,Great idea – Constantly wishing I had variables available for things like box-shadow typography.Related: Global Variables: https://wishlist.webflow.com/ideas/WEBFLOW-I-1379Symbol Variables: https://wishlist.webflow.com/ideas/WEBFLOW-I-1558
+03/03/2018,Sean Sands,For something as powerful as Webflow this is seriously important to have. It helps establish a global design system. I'd love to see this and more. The more variables we can have the better.
+18/09/2017,Luke Dorny,Using the new -/+class interaction to the body on click might work for this.
+16/03/2017,Forrest O,I'd like this and to take it further: UI to warn about any places that I'm not using the spacings that I set up.
+06/02/2017,Luca,Not sure if it's related to this but for true responsiveness I'd like to be able to control font size based on element width as in Flowtype.js: http://simplefocus.com/flowtype/
+19/01/2017,Juan Martín Lusiardo,This would be really cool to have (and really time savvy)! A great feature for those making style guides in Webflow.
+19/01/2017,Jaro Quastenberg,i am waiting so long for this.. !
+18/01/2017,Oliver Curting,I find this really important.

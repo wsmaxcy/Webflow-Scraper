@@ -1,0 +1,4 @@
+Date,Name,Comment
+17/09/2022,Michael Wells,Just want to note that this request doesn't actually make sense. File extensions are a central part of what allows webservers to work. Web servers see the .html extension and then know it can be served as text/html otherwise it could be an image a script plaintext... the server has zero idea what to do with it.
+08/02/2021,Brad Cumbers,Thirded!
+19/01/2021,Alex Pan,please make this happen

@@ -1,0 +1,5 @@
+Date,Name,Comment
+24/02/2023,Michael Wells,Try Finsweet's Powerful Rich Text. it allows you to assign classes anywhere inside of your rich text content which interactions should be able to trigger from and bind to. You may need to reset IX2 after Finsweet does its work haven't tested it.
+01/12/2022,Hayden Judd,I have the same issue as Andy trying to make a dark mode function on CMS driven rich text. Did anyone find a solution?
+04/08/2021,Yuma Heymans,Yes please !
+04/04/2021,Andy Dominique Rak,Definitely +1 !Didn't realize that missing option at all but now that I need to create a Dark/Light mode interaction button to a CMS blog post page I'm stuck there able to apply the trigger interaction on everything except the dynamic Rich Text Elements.If somebody found any kinds of workaround in the meantime I'm definitely a taker !

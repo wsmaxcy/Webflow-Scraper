@@ -1,0 +1,8 @@
+Date,Name,Comment
+07/06/2023,Nicholas Evans,Please do this. ReCAPTCHA is hurting my PageSpeed Insights performance score a lot.
+22/11/2022,Joseph Tosi,I just reduced my home page's Time to Interactive from 7.5 sec to 4.0 by removing the reCAPTCHA. I also improved PageSpeed rank from 67 to 79. 😳 And page load feels much snappier. 🤔 I realize reCAPTCHA may need to running stuff in the background during the user's session in order to determine if the user is real but… there's gotta be a better way…
+22/11/2022,Joseph Tosi,recaptcha__en.js is 399.9 KiB uncompressed?? 🤦🏻‍♂️ I'm not using a form on my home page…
+03/09/2022,Almog Koren,Whats the deal with this
+22/07/2021,Matt Wheeler,Yes please take a look into this. My site is failing LCP core web vitals with reCAPTCHA taking 26% of the resources when loading.
+25/06/2021,Shahar Or,Thank you for reviewing this WebFlow.
+04/02/2021,Julien Vanwinsberghe,This would help a lot for improving Google PageSpeed score!

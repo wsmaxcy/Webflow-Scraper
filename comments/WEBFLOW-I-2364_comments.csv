@@ -1,0 +1,2 @@
+Date,Name,Comment
+31/10/2022,Michael Wells,This is already supported- redirects provide for wildcards and capture groups so you can pass the whole querystring if you like.

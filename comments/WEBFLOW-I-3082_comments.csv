@@ -1,0 +1,3 @@
+Date,Name,Comment
+25/11/2022,Michael Wells,Just to add I've considered writing a browser extension to fix this and that would be relatively easy in the designer but the real problem is in the editor where my clients have to manage the CMS.
+25/11/2022,Michael Wells,Thanks Peter I was just thinking how often I need this for my CMS designs. e.g. I might have a video title video link and a duration all together but they're one "aspect" of that collection item. Meanwhile these three fields are the service category the sort key and whether it's featured. These are a group too. In another place the hero image and the color which are the display attributes. Right now My CMS's are difficult to decipher because there's no visual separation between what these things do.

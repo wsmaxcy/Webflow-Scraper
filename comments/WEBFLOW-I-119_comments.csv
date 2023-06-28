@@ -1,0 +1,19 @@
+Date,Name,Comment
+22/02/2023,Mike Mahoney,This is needed. Why is this not done already?
+30/09/2022,Pam Sykes,Five years later and we still don't have this!!! We've just invested weeks in building a version of our blog in Webflow and this has come up at the last minute. It's a mess.
+22/06/2020,Kyle Fs,We need this ASAP!
+30/03/2020,Kyle Fs,This is very important! Please bring it ASAP!
+16/01/2020,Alex E,Really important for CMS and google page speed analytics. Please add ASAP
+07/01/2020,Zach Waterfield,Desperately in need of this please please please prioritize this!
+06/12/2019,Øyvind Østmo,Hi guys! It's kinda scary that this feature has been in the backlog for 3 years soon. Every site I make more or less clients are creating articles in the CMS. And without fail they upload huge stock images into the Rich Text field. This is kind of a deal breaker for all content heavy sites like blogs unless you have a content wizard at hand who remembers to resize every single image before uploading. And even then it's heavy to load on mobile.
+08/10/2019,Tiada Guru,Can we please merge this other request into this one? https://wishlist.webflow.com/ideas/WEBFLOW-I-1073Should be 168 votes not 101.
+08/10/2019,Tiada Guru,Eghad. This would allow a much faster mobile experience for us (as display:none doesn't do anything on mobile; to actually prevent images from downloading on mobile you need to use CSS background images).But then we kill desktop & tablet performance because background images aren't responsive.Stuck between a rock & a hard place Webflow.
+17/09/2019,Pedro Mendes,When will this feature will be available? This is definitely required for a Business account with multiple editors.Please develop this soon.
+21/03/2019,Thomas Daly,Need this! pls add!!!
+20/01/2019,Bryan Garrant,I desperately need this for my client sites. Can someone from Webflow give is an ETA? Google is using performance ranking now and having 4mb background images uploaded by client who don’t know how to crop is not acceptable.
+19/09/2018,Jess Leondiou,Has the feature become available? Just checking in case I missed it! :)
+17/09/2018,Marvin Mattelson,Since Google now places so much emphasis on page load this is an essential feature. Also it’s been promised for over two years.
+26/04/2018,PS Werbung,this is important – because benchmarks show here a really important problem: background images are important for todays websites and these REALLY need the smart compression handling.
+26/03/2018,Tom Lamers,And to add to this: also responsive images for Lightbox images are very welcome!
+29/10/2017,James Stanbridge,Is this going to be in an update any time soon??
+25/05/2017,Johnny Liabø,Any ETA on this feature?

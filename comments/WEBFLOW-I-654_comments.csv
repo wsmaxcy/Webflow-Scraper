@@ -1,0 +1,11 @@
+Date,Name,Comment
+03/08/2022,Frederico Leonardo,<input type="checkbox" value="somevalue"> is a thing Webflow! You already have that for radio inputs.
+06/02/2020,Charlie Bradford,I need this to help with my HubSpot API integration.I have a HubSpot contact property of 'what features do you want to learn more about' with checkboxes for each feature.sending my forms across with only true or false instead of the correct checkbox name doesn't add the property to my contact as it is an incorrect value
+12/12/2019,Israel Torres,Yes please
+12/12/2019,Oscar Lopez,I agree that each checkbox item should have its own return value. As of right now it's confusing to just display "on"
+12/12/2019,Steff Miller,Yes please.
+12/12/2019,Nina Martinez,As of now the checkboxes only return a value of "on". I would be great  if it returned a custom value of whatever the the checkbox text label said and have them set up the way the radio buttons are for example: radio buttons are all grouped together by the same name then each radio button gets it's own value which it's plainly shown in the form submissions (i.e. Services Requested: Consultation)
+23/08/2019,TRUE,Same here – we need to be able to return "Yes"
+13/11/2018,Nick,I would like able to make the value a number for the purpose of making real-time form calculations with custom code. For instance if an option is worth $5 I can make the value 5 and add that number to the total when checked.
+30/06/2017,LaDale Juniel,Values such as "Yes" or "No" instead of "True" or "False" would be a good example.
+12/05/2017,Webflow Team,Can you provide some examples?

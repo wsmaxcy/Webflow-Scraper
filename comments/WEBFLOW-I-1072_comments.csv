@@ -1,0 +1,6 @@
+Date,Name,Comment
+10/08/2020,Meirion Williams,I am new to webflow and I could not work out why my default tabs kept changing. Until I realised that just selecting a tab to view or update it in the editor makes it the new default tab. This is insane.
+04/08/2020,Emily Burnett,Is this getting any attention? I've unintentionally had my "active" tab set to the one I was last working in more times than I can count on a featured part of our website.
+28/05/2020,Sue Lynn,There is no way to set initial active Tab when the website is open.  Very frustrating
+05/09/2018,Vincent Bidaux,in the meantime user Diarmuid Sexton made scripts to ease the pain check them here:
+24/08/2018,Justin Maxwell,I just mailed them about this too! It's very frustrating when you edit a tab close the editor and then find you've completely screwed up your live site

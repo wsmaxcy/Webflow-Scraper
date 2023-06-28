@@ -1,0 +1,6 @@
+Date,Name,Comment
+16/11/2022,Justine Bressin,This feature is HIGHLY needed right now as the auto-load of the google fonts are now not compliant with German GPDR anymore. I'm clueless with my landing page.
+26/10/2022,Tim,any news on this? in germany currently a lot of website getting a attorney's letter with fine of about 170-€. This make me anger of what easy people now making money and also in a legitimately way. there must be a way to stop either pulling google fonts automatically or stop this sick behaviour of lawyers!
+30/01/2019,Josh Hanson,It seems you can eliminate all references to googleapis.com by either using a custom font or using a font that is so widely available it doesn't require download like Arial. I just tested the site with my friend in China: when using a font supplied by Google like Open Sans it takes a full three minutes to load in China. After switching to Arial it loads near instantly.
+17/11/2018,Suzi Yang,This is very essential to reach China. Please add this function asap.
+13/06/2018,Marketing @ TC,My firm uses Webflow to create custom pages to showcase and educate on our services.

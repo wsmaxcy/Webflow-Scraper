@@ -1,0 +1,7 @@
+Date,Name,Comment
+12/02/2023,Mitch McQuinn,5 years later... I wish this was a thing already
+27/08/2021,Dusty Strings,We could really use this as a way to make sure the layouts and functionality are preserved but to avoid forcing unnecessary or made-up data entry.
+26/08/2019,מאיר רביב,Great IDEA!
+03/08/2018,Webflow Team,Hi there
+31/07/2018,Overlay,Hey Nelson thanks for responding although your suggestion doesn't solve this problem and perhaps my initial scenario description wasn't clear enough.
+30/07/2018,Webflow Team,You can just set all fields to not be required then use the conditional visibility in your design:

@@ -1,0 +1,5 @@
+Date,Name,Comment
+19/02/2020,Pascal Olivet,This feature has been delivered with the object "Fit" functionality.
+14/05/2017,Pascal Olivet,Nop not cropping. But to force the image to completely fill the space they'd are placed in. For example if you place an image inside a Div to completely fill the space of that Div whatever the Div size and proportion of that Div (and any Overflow from to be automatically hidden).
+11/05/2017,Webflow Team,Images are their native size. Do you mean you want to crop images inside Webflow?
+05/05/2017,Pascal Olivet,And actually the "Contain" option as well!

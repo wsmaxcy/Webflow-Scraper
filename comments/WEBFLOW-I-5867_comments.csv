@@ -1,0 +1,6 @@
+Date,Name,Comment
+22/06/2023,Cloudburst,This is a fundamental of selling tiered access to a site. Please make this a top priority!
+22/06/2023,Graeme Sutherland,Yes yes yes. Need thisrolled out to fully move inside the Webflow environment without relying on a third party solution like MemberStack.
+20/05/2023,Chris P,I agree and support the development of this feature. A multi-plan membership based site is not possible without the ability to display that data based on what plan(s) they purchased.
+22/04/2023,R JEFFERY WILSON,Gating content by user groups without the ability to gate menu links by user group is really kind of useless don't you think. I'm surprised this hasn't been addressed by now.
+12/04/2023,Rens Korsten,Yeah this is an important addition that will open up a lot of opportunities for different uses. For example: we have multiple different products with different software per product. We need to show only the corresponding software to a person who has a specific product. Without this ability it's kind of impossible without some creative solution.

@@ -1,0 +1,5 @@
+Date,Name,Comment
+04/05/2023,Rien,Baffles me that Webflow doesn't support ipv6 in 2023. It's about time no?
+25/11/2021,Bertel Torp,Took me a while to find this as i searched for ipv6 not ipv 6 or ip v6 :)Lack of ipv6 has been a recurring issue during audits and pentests.. if/when it ends up blocking a certification we'll throw webflow under the bus and migrate away.
+13/10/2021,Philip Ehl,IPv6 should be supported as it gets more important every day.I came across several threads in the forum but I couldn't get it to work:https://discourse.webflow.com/t/how-to-use-ipv6-address-to-point-to-webflow/28898https://discourse.webflow.com/t/still-no-ipv6-support/115440https://discourse.webflow.com/t/ipv6-and-a-records-on-1and1/23965...
+13/10/2021,Philip Ehl,Same Problem

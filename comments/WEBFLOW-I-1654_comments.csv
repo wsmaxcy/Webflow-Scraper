@@ -1,0 +1,21 @@
+Date,Name,Comment
+25/05/2023,Oscar Dykeman,We know finsweet has a snippet for this but come on now with tools like framer the UI should get priority... feels old now and this is the peak example of why the webflow designer UI need some love.
+27/04/2023,Aaron Clark,Where is this feature?! It's 2023.
+28/11/2022,Carlos Tocchetto,no being able to set the height of the page makes it really hard to design website in large monitor using webflow it is literally a pain.
+17/11/2022,Emmett Armstrong,FYI the Finsweet Chrome Extension can handle this:
+26/06/2022,Sorin Cadar,Webflow I am so surprised by your attitude towards a real problem that your users are facing. You are not even trying to understand our pain. I suppose you grown so big that it is becoming impossible to stay in touch with the needs of your clients. What a shame!
+14/06/2022,Carlos Tocchetto,I wonder why we still don't have this feature in webflow.
+09/06/2022,One Creative,Why is this not implemented yet? How are you supposed to design for mobile responsiveness when the actual viewport is 3x 4x taller than the device? Is this a joke?
+09/06/2022,Amanda Wan,F U Admin. horrible user experience coupled with horrible customer experience
+07/06/2022,Hello,This is f**** insane
+13/05/2022,Jan Wassenich,How is this still not a thing? I struggle so much when designing screen-size-adjustable content (e.g. full-screen sections) because the viewport height / aspect ratio is nowhere near realistic it's a nightmare! All of this could be fixed so easily by simply copying the chrome element inspector where you can set both height and width (!!) too anything you like!
+01/04/2022,John,What? Response of the admin: "It's currently possible to resize the height of the browser window to mimic the height of a phone screen....".
+03/03/2022,Miles Mitchell,Hey guys you know that you can just resize the height of your browser to mimic the height of a phone screen and still access styling controls - it's just a terrible user experience and a nightmare to use efficiently.
+17/02/2022,Shulem Deen,It's disappointing this hasn't been implemented.
+10/01/2022,Pablo Trautwein,This is really overdue. Would be so helpful to design for mobile first. It's the future whether we like it or not.
+16/08/2021,Sascha Patrick Geisler,It's currently possible to resize the height of the browser window to mimic the height of a phone screen and still access styling controls. So it's unlikely that we'll build this type of preview in the Designer at this time.
+09/07/2021,Ada,Yes for real!!!! It is so hard to make a good mobile design with the stretched height preview. It doesn't turn out great on real devices when using 100VH.
+07/12/2020,Manuel Engler,Yes PLEASE implement this! It is so annoying without height preview basically useless in many cases! Webflow is soooo great everything is built so well/intuitive/smooth – so I am very surprised that you guys treat mobile as if this is like an optional add-on.The majority of users come from mobile as you also know for sure!This feature is on the wishlist and heavily requested for ages (and again: SO. MUCH. NEEDED.) – So are there any updates?
+18/08/2020,Ben Drechsel,This seems like an easy thing to add. I can already dive into my browser's inspector and add a `max-height` value to `div#workspace` and it seems to work as expected for my VH-sensitive elements. For example this works for mobile landscape:<div id="workspace" style="height: 100%; max-height: 320px;">
+30/06/2020,Jake Doering,I'm new to webflow and baffled this wasn't implemented. Not only does webflow's base size for cascading behavior make it essentially impossible to design mobile-first but they can't even offer a mobile view with a real device height to design responsively?Webflow feels like the future in so many ways but the disregard for mobile sets it back a decade.YO product team: any designer who works on consumer products in 2020 should be spending 75% of their time on mobile. Design the design tool for mobile.
+26/04/2020,Max,adding this feature would add tremendous value to webflow as a tool for developers/designers

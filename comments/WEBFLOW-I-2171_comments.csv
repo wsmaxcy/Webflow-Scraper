@@ -1,0 +1,3 @@
+Date,Name,Comment
+03/03/2021,Avelino Zepeda Martínez,While some easy interactive way to associate a form label to its field would be great allowing us to edit the "for" attribute in the custom attributes would be just enough for now. It is not feasible to have it change using JS particularly with overly complex forms.
+29/12/2020,Tom Auger,This is huge. In 2021 in Ontario Canada there is new legislation requiring WCAG 2.1 AA compliance and Webflow's forms are not WCAG compliant due to inability to properly label form fields. This means Webflow is not longer a valid tool for anyone building websites for Ontario businesses. The rest of the world isn't that far behind (the US is pretty crappy when it comes to ADA etc).

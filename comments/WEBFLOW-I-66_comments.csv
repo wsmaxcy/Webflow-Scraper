@@ -1,0 +1,21 @@
+Date,Name,Comment
+21/05/2023,49 Lines,I think the marketing to remain competitive by implementing AI into Webflow is unnecessary right now. We need combo classes in rich text elements more standard I.Query functionality into the animations tab (Such as class adder) the ability to halt page scroll for hero animations and delay page changes. Additionally we definitely need some work on the CMS uploads for the E-Commerce system. Really cant understand why the E-Commerce platform does not avail of the same content upload functionality that exists in the basic CMS system. Anyway please make additional rich text classes a priority.
+25/01/2023,Rami Abdi,
+07/10/2022,Oasense Inc,I cannot believe that this very basic function is not supported by Webflow RTE. I realize that I have to take 5X times than usual just for creating a well formatted privacy policy / term docs. Hey! Webflow team! Please stop wasting developer's time and add this very basic function into RTE!
+06/10/2022,Perrin Legg,Pinging webflow — this would be really helpful when dealing with items such as a privacy policy or terms doc. Rich text prevents me from identifying that certain ordered lists should use alphabetical characters or roman numerals etc
+27/02/2022,Brent Lagerman,Finally figured this out it's actually really easy attached is how I did it for IDs to change it to classes would probably just be a matter of changing ID to class.  The Javascript looks for all the h2s on the page then adds an id based on the content of the h2.  Just add it into your template before the /body.  My example adds it to all blog posts on our site.
+15/09/2021,Pavel Kukla,Can someone please review this feature?
+11/06/2021,OrthographIQ,pleasee neeed this
+04/01/2021,Web Design,I need this! Can't believe the options don't go beyond bold italic link and headline (and quotation for some reason).
+23/11/2020,Gretel DevOps,Really disappointed to see this isn't even on the Webflow team's roadmap. The lack of rich text tools on the CMS is a huge deal breaker for us and a huge headache for content writers.
+10/09/2020,Sergey Stanchev,Hey Webflow fans! Please check this out  https://sweet-text.webflow.io/
+11/01/2020,Matt Buck,For folks that end up here check out this section of the docs about styling elements in a rich text field.
+07/12/2019,Brett Combs,I purchased Webflow and when I found that there is essentially no way to design CMS posts I thought there goes CMS im right back at static pages or Back to Wordpress.Shrug
+05/11/2019,Grant Senior,Just discovered I need this too.
+02/06/2019,Tina Kister,I work with content that includes multi-level lists references image captions etc. If CMS content is going to be credible and readable then we need more flexibility in how it is presented.
+01/03/2019,Alex Dixon,+1Although I can completely see the rational behind keeping the rich text editor super simple it would be very helpful to extend the functionally (just a bit) to allow some additional styling options.Additionally features such as strikethrough hr text alignment and so on would also be a Brucie bonus.
+27/06/2018,Arik Meyer,Hoping for this as well particularly in order to be able to show image sizes differently based on device type (e.g. full-size on mobile while smaller size on larger devices).
+23/06/2018,Daniel Kwan,I personally do not use Rich Classes for the reason of basic customization. I still use webflow but have to recreate what I want with: div blocks paragraph text heading – everything that isn't Rich Text lol. - 06.23.2018
+15/05/2018,Scott Stephens,This would be amazing!  Please add this feature.  I want to insert some custom quote cards via css instead of an image.
+13/06/2017,Darren Squashic,Yes! I seriously need this feature. I can't really commit to using Webflow for the majority of my client work without it.
+15/03/2017,Kai Schneider,Adding IDs would be nice too. It's not possible right now to link to a section in a rich text box right now.

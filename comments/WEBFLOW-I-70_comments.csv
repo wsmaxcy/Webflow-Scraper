@@ -1,0 +1,21 @@
+Date,Name,Comment
+15/12/2020,Rose Gregory,What's the hold up Webflow? Not having this feature results in a lot of wasted time. What's preventing this update from happening?
+15/12/2020,Karianne Løndal,This needs to be fixed asap!
+09/09/2020,Maciej Sawicki,I agree I have a real use cases where my clients tell me that something is wrong on iPad Landscape and I need to use hacks to fix it or adjust the design
+26/08/2020,Nikita Merge,Same problem it is a huge deal. Indeed I do not need my desktop view to be presented on landscale tablet view. I wish to have Tablet Landscape View to design in tap mode.Hope this will be resolves soon this year.
+25/07/2020,McAlvany Intelligence Advisor,Updates on this??
+12/05/2020,Pablo Montero,Completely stuck due to this issue. For example my interactions in Desktop view have nothing to do with the insteractions in Landscape table view. Is this wish from Jan 2017???
+06/03/2020,Dino Naseib,Has there been any progress on this wish?Im quite surprised that this has not been resolved as of yet?@Webflow whats the latest on this?
+19/12/2019,Scott Haynes,Dear Webflow Dev Team
+03/09/2019,Ben Kilah,This is a requirement and has been from the start what's the update Webflow?
+16/07/2019,Glen Tiktak,I need it. Please.
+08/07/2019,Maurice de Vries,I would have NEVER used webflow if I knew about this unsolved problem. Now I'm stuck because I got to far into the project to switch. Two and a half year without a fix is totally unacceptable.
+30/05/2019,Neil Newnham,This needs adding more desperately than ever. I lose so much time compromising my desktop design just to try and make it work on iPad landscape. Especially menus. I would love to have the hamburger menu available on iPad landscape.
+21/05/2019,Daniel H,Landscape or portrait I still have no choice but to target my design to resize and work for 768 and 1024. And Webflow’s max-width: 991px hard code is just creating more work for me. Having 991px as a breakpoint is worthless in responsive design. Show me a device that even needs 991px as a breakpoint.
+09/05/2019,James Bravo,How is this not a feature yet??  Seriously guys this is a complete deal breaker...
+10/04/2019,Mark Savage,Recently started using webflow for a project and got quite a bit into the design/build before realising this crucial media query isn't available - what a deal breaker for me! If I wasn't committed already to do my current project in webflow (because of the project delivery time) I would take the hit and stop right now and code the site myself. I can't believe this isn't included! And yes as others mention the preview mode is not accurate at all. I'm having to publish site to debug in various resolutions.
+01/04/2019,Wout Helsmoortel,Also animations behave different; they often appear much later than in any other view. Often the element does not show up even after scrolling past it!
+01/04/2019,Wout Helsmoortel,I agree - tablet in landscape mode looks very different - I had to find out myself during tests on the device.Very painful and should be avoided by providing us a preview in the designer.Why is this taking so long?
+12/03/2019,Tom Dearie,Has a landscape breakpoint been added yet?We find Webflow enticing but we discontinued our subscription a year or two ago over this feature.
+04/02/2019,Rich Trowbridge,PLEASE - This is a must-have update!Also is it possible to detect what kind of device a site is being viewed on?  Some of the new large-screen phones have landscape widths that are approaching tablets but the aspect ratio is very different between the two. That can really affect how a site looks.Maybe you could let us add additional breakpoints within your pre-defined device icons?Either way adding a landscape tablet breakpoint that is different from the desktop is really a must.
+29/01/2019,Darren O'Rourke,This is a must. Not only for the comments mentioned above but interactions. Currently have Hover triggers on desktop which do not function correctly on Landscape Tablet.

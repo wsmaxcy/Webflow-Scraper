@@ -1,0 +1,21 @@
+Date,Name,Comment
+12/05/2023,Dennis Wehrmann,holy molly – it's been 5 years and still no possibillity to localize dates?
+13/03/2023,Brian Walker,Yes can we please have the format "dd mmm yyyy"? The USA is the only country in the world to use "mmm dd yyyy"! Please stop making us have to do a bunch of crazy formatting to get "dd mmm yyyy".
+27/02/2023,Frederik Sally,Crazy this isn't implemented yet!
+26/08/2022,Jon Cox,I'd also like the following format please (which which is more typical in the UK):
+10/08/2022,Toni Sian,Insane that this hasn't been implemented yet. Webflow you talk about accessibility all day long yet you're missing this SIMPLE ass feature? Maybe back up your talk with the basic implementations first before focusing on the fancy stuff. Jeez.
+24/02/2022,Filadelfia Vennesla,It's these small things that makes Webflow difficult to work with...
+26/10/2021,SH,Romanian too please.Ianuarie (jan)
+31/03/2021,Gabriella Farkas,Could you add custom date format where we can describe what we need (eg: like PHP date function: Y.m.d. in hungarian format)? It would be wonderful if we could add translation for the list of months and days so it could be displayed on any language perfectly.
+16/03/2021,Scott Hannon,Also add YYYYMMDD and YYYY/MM/DD.
+08/03/2021,Brian O'Carroll,Merge with...
+24/02/2021,BR-CF,I'm shocked this still hasn't been implemented. Same with the date format and Sunday being the firts day of the week—this should all be customisable for users outside the US.
+21/10/2020,Juan Manuel Garrido,+1
+15/06/2020,Hourly Dev,Please add UTC iso 8601 format - while this might not be great for people it's great for creating JSON-LD metadata to help with enhanced google listings and integrating with analytics platforms.
+05/03/2020,Harry,Would be nice to have "Today" as current day. Auj. Aujourd'hui. in Fench.
+18/06/2019,TRUE,Why does this feature take so long. Dates are sich common things to have on a website. Even for English the existing isn't comprehensive. Terribly missing DD MMMM YYYY which is used all the time in the UK.
+27/03/2019,Stephan Nabbe,Don't forget Dutch please! (all WITHOUT capitals):
+24/07/2018,Ivan Demyanenko,And don't forget russian please
+19/06/2018,Gilson Nunes,Please don't forget Portuguese
+27/04/2018,Bitzky,
+16/01/2018,Will Neeteson,At the moment I am creating different text boxes linked to the cms displaying the day and month separately. Would be great if it were slightly more straightforward

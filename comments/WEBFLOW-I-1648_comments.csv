@@ -1,0 +1,4 @@
+Date,Name,Comment
+02/11/2022,Michael Wells,I've built a few solutions to do this for clients using multiple fields and doing date math in script to calculate the next event. It works but I don't recommend it. You'll always have problems with cancelations time changes venue changes notes etc. A better way is to manage the events in a Google Calendar and use automation to create Events as they approach say 30 days out. Then you can easily show upcoming events and also cancel/change/notes as needed. I did an article here for anyone who wants to try that approach.
+06/12/2021,Joseph Amato,Yes! A general Date/Time field overhaul is much needed. If it can contain the same functionality that Asana's Due date field has it would be perfect.
+18/06/2020,Bruno Bürgi,eg. Travel offers with multiple starting dates... A workarund today is to create a table with all possible starting dates and connect this via multiselect. A nightmare.

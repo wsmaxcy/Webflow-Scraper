@@ -1,0 +1,7 @@
+Date,Name,Comment
+23/09/2021,Ahmad Hasona,@Matthew Guyette Could you be a little more specific about your process? I am trying to hide a template section and come back to it at a later time without having to recreate it. Turning display to none deletes it completely.
+03/09/2021,Mitchell Hart,2021 Update: In the layout section tap the eye ( 👁 ) icon to toggle the element off.  ✌
+11/06/2020,Matthew Guyette,I found a little work around. Just take the element you want to "hide" and create a symbol from it. That way if you want to add it back in at a later point just drag in the newly created symbol and bypass having to recreate it.
+08/10/2019,Josh Priollaud,@Webflow Team.  This is not great product design.  "Webflow is unlike a graphic design tool..." but it should be in this case.  Look at your Forums -there are numerous posts of people getting stuck behind a cloaking layer that hides the stuff they want to work on.  Display:none is annoying.  Users should not have to change code (and take notes of those changes so they can unchange them accurately later) just to hide an element from the editor's view.
+05/03/2019,Miguel Gutierrezq,I would love to be able to talk to someone on the phone. I am having trouble with a theme and it's compatibility across mobile devices.
+05/03/2019,Webflow Team,Since you're actually writing code while using Webflow it's best that you use "display:none" to hide elements. Webflow is unlike a graphic design tool where you can can just hide/show elements.

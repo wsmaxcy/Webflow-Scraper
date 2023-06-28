@@ -1,0 +1,8 @@
+Date,Name,Comment
+09/06/2023,Jonathan Kimberley,Google wants a GTIN code for every product listed but any items with Options only have the fixed fields available unlike for single SKU items where a custom field can be added.
+31/08/2021,Braden Mosley,The problem with using the formatter in Zapier is that the data within “product details” is not comma-separated and it is also not bundled into separate variables with similar data.
+16/02/2021,Derrick Kityo,This is terrible.. hope they improve it soon.
+15/02/2020,Hamish Maclean,Some additional needs:
+14/08/2019,Diego Kolsky,Zapier feeds are improperly set up (eg all addresses are a long continuous string of information) requiring translation. Would be simple to improve.
+10/06/2019,Joe Mallory-skinner,Yes! I've been having this exact problem. The API docs are slightly misleading here unfortunately
+29/05/2019,Hamish Maclean,Great idea . 😆

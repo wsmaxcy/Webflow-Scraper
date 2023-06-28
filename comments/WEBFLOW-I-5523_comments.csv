@@ -1,0 +1,2 @@
+Date,Name,Comment
+11/10/2022,Webflow Admin,Hey Ezra the publish process is completely independent from the Designer once the operation is triggered. Feel free to leave the Designer or reload the site. The publish process will be unaffected as it is done on Webflow's servers and not in your browser.

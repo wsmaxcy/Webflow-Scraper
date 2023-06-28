@@ -1,0 +1,6 @@
+Date,Name,Comment
+24/05/2022,Guilherme Silveira,
+24/02/2022,Stuart Bowler,Just chipping in to this wishlist request with an example where I would need this feature now. I have a client who have developed their own API endpoints to access compensation amounts by career specialty and region. Their site is hosted in Webflow and I need to ideally create a secure connection to their external API in order to power a series of widgets that provide interactive interrogation of this data.
+19/05/2021,Gislason Shirley,Most articles I found online point to using Identity and JWT. But this would only be used by other systems and authenticating before every request or forcing developers to store a JWT for a given period of time sound like too much work.
+06/05/2021,Tobias Duelli,Hi Sachin
+04/05/2021,Sachin Deven,Hi Tobias

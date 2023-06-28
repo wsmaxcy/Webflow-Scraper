@@ -1,0 +1,15 @@
+Date,Name,Comment
+03/08/2022,Frederico Leonardo,Also input type url search. Not sure Webflow is aware of how the keyboard changes in mobile if these types are properly coded.
+16/11/2021,Patina Photo,@Admin
+04/07/2020,Lane Bowman,As mentioned below why not just add the type=date and display a warning that this isn't supported in Safari?
+30/01/2019,Hans-Jørgen Kristiansen,Safari won't be supporting date picker anytime in the near future. So there is no point in waiting for Safari to support it. Just add a warning when using it.
+30/12/2018,William Wong,url?
+14/11/2018,Prashant Trivedi,Yes Even if it's not stylable this feature is much needed in forms.
+09/11/2018,Samuel,"Number" type has just been launched and we already have email and phone.
+02/10/2018,Quentin Plomteux,I really need to be able to setup de value of a field. I don't want to have to use js to set the value of a field
+30/05/2018,Martin Staflund,I really need to specify my input to be of type "search". Without it there is no key "search" (or "go") on the virtual keyboard. This oversight makes it harder to get prototype acceptance from stakeholders.
+17/05/2018,David Mkwambisi,It's rather shocking that this isn't a feature yet. It goes without saying really. Please do something about this.
+17/05/2018,David Mkwambisi,It's rather shocking that this isn't a feature yet. It goes without saying really. Please do something about this.
+17/05/2018,Scottie J. Haines,@webflow How on earth is this not in development yet?
+07/05/2018,Steven Hambleton,Yup this would be very useful right now!
+02/01/2018,Amnon Barnea,Yes! I need that.

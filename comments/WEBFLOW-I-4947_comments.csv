@@ -1,0 +1,4 @@
+Date,Name,Comment
+18/06/2023,Raphaël Regnier,Since the design token standard has matured and is being adopted by major vendors I would love for it to be supported by webflow.
+06/02/2023,Nicolas Fol,Yes we need that to let single source of thuth files connect to webflow.
+01/07/2022,Louis Chenais,+1 Georg!At Specify we want to help product teams do just that: specifyapp.com.We help you collect design tokens and assets from Figma store them in a central source of truth and distribute them in your codebase in the format you want – automatically.Distributing design data to Webflow is something we would love to do but it seems Webflow API doesn't let us do this for now.Disclaimer: I'm one of Specify co-founder. If you want a demo feel free to ask ;)

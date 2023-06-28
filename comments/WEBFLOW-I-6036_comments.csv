@@ -1,0 +1,2 @@
+Date,Name,Comment
+08/06/2023,John Fallot,I think a sufficient solution might be to separate Webflow's CSS from site specific CSS. Although I do wonder which is faster: making one request to a big CSS file or making two requests to two medium-sized CSS files.

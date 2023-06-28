@@ -1,0 +1,4 @@
+Date,Name,Comment
+12/08/2021,Jon Potts,Yes - I'd love to trigger sounds.
+07/07/2021,Chris Shepherd,Let’s say that I want to create motion graphics that will react to the beat of a song. There are a number of ways to do this. The first idea that comes to mind is opening up the waveform and animating using the peaks and valleys of the song as a visual reference. Another method would be to listen to the song and add markers on the fly animating attributes at the marker points. Both of these techniques have something in common — I’m spending a lot of time manually adding keyframes.
+14/11/2020,Hegmann Kris,The idea of combining sound with animation is a great idea. I have tried adding a few audio files to my website once

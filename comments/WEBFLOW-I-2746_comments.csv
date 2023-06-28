@@ -1,0 +1,2 @@
+Date,Name,Comment
+10/11/2020,Keven Lupien,Keeping global classes separate would be great and would help substantially when using utility classes (or helper classes). It took me a while to get use to removing classes in order to style the base class and I still forget to do this at times.

@@ -1,0 +1,3 @@
+Date,Name,Comment
+17/01/2023,Quiz Live,Webflow is very backward missing this basic feature. With WordPress you can use a Gravity Form to control the subject field by inserting any variable you like including client and company names and enquiry ID numbers etc. Very disappointing as it means that incoming email notifications get threaded even through its from different people. You would think they would have improved this by now.
+04/07/2022,Hamish Palmer,With the small number of Webflow clients I have this has been requested twice... I will move form processing to Formspree or similar in the meantime.

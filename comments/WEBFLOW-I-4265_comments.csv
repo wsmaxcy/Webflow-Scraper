@@ -1,0 +1,8 @@
+Date,Name,Comment
+13/06/2023,William Gen,
+08/12/2022,Ryan Buckley,Please add a search or filter endpoint to the collections API.
+08/11/2022,Guest,For More Valuable Info Check Here: https://upserss.onl/
+13/10/2022,Ross Newton,Listing out collection items desperately needs filter and sort. Otherwise it's pretty wasteful to get hundreds of items and filter manually.
+17/12/2021,Lyle Malone,Thanks for the update. I'll be sure to keep an eye on this thread.
+29/10/2021,Jennifer Duran,Just defining an API and gaining consensus is difficult enough to say nothing of choosing implementation technologies for bindings (SOAP ATOM REST etc.) But the difficulty is not the only issue. The other issue is that the standards have always been somewhat clunky and difficult to work with. This is likely a result of the committee-driven design process which is typically made up of vendors who by necessity bring their vendor-specific baggage and agendas to the process. More importantly there’s no real-world litmus test for these standards until much later when the implementations materialize. The mediocre success of CMS standards is no surprise. We need an API standard for interacting with our CMS platforms that can go beyond the technical and political challenges faced by previous API(s) to reach a high level of adoption across the entire development community.
+05/07/2021,Edward Garcia,The folks at Netlify created Netlify CMS to fill a gap in the static site generation pipeline. There were some great proprietary headless CMS options but no real contenders that were open source and extensible—that could turn into a community-built ecosystem like WordPress or Drupal.

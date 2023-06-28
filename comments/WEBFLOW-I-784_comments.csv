@@ -1,0 +1,21 @@
+Date,Name,Comment
+18/01/2023,Stuart Hare,We have recently moved to Webflow reading the guides and working with the agency before we agreed to move we believed Security Headers would be available.
+12/12/2022,Brian Wong,A financial institution partner is running an audit on our webflow landing pages and found that the default security headers are insufficient.
+10/10/2022,Sven Wiegert,THIS should be a MUST HAVE in no matter which option and not just in ENTERPRISE!!!! Especially in EU countries. Otherwise many freelancers and web agencies are going to have HUUUUUUUUGE problems with GDPR. If this doesn't become a default feature many EU-people gotta stop working with Webflow. And that would be really sad.
+07/09/2022,Daniel,Why can't they just release a simple security pack for an extra $3 a month? Otherwise just give it standard. If a Google check says this is a security risk it should be addressed. Small organisations can't afford Enterprise Lite.
+24/08/2022,Omer Rimoch,This definitely seems like a basic option that should be at least be available in the Business option.
+25/03/2022,Erik Runbeck,I believe that this is available in Enterprise Lite now right?
+18/02/2022,Guest,You can host the Site with Stacket: https://stacket.app/ where you want and then add the security headers what you prefer :)
+09/02/2022,Anthony Pilger,This has been the deal breaker on many projects and it's pretty much the same scenario.
+10/08/2021,Andrew Thompson,Hey this is becoming a bit of a problem. Can we please have the ability to put our own headers on our website? If not add some standards in there such as
+13/05/2021,Adam Rich,Adding X-Content-Type-Options: nosniff should be a trivial change
+31/03/2021,Mark Thurman,This seems an obvious target to implement - but doing so in such a way that limits the self harm that can come from incorrect set-up is the real deal right?  I have financial sector clients (non transactional sites & marketing) that I can't realistically use for Webflow because a simple scan of the headers (even of webflow.com !) shows a poor 'D' rating.
+11/12/2020,Laura Kim,Need this as well! Any updates?
+22/07/2020,McAlvany Intelligence Advisor,Yes! Also need this - has anyone been able to achieve this?
+20/05/2020,Nick DiMoro,Please please please we need this implemented. This is the final key to making webflow a 100% fast secure web host it's a no-brainer.
+14/05/2020,Matt Koshko,Curious to know if any of you have been successful with Webflow's team to get this addressed.
+27/03/2020,Alexander Brevig,https://securityheaders.com/?q=https%3A%2F%2Fwebflow.com%2F&hide=on&followRedirects=on
+19/02/2020,Chadwick Savage,Currently have a support ticket open asking about this before I found this post. This is much needed. Every webflow site I'm running through securityheaders.com only has content security policy and x frame options as the current headers.
+21/01/2020,Onedot Marketing,Same here HSTS headers are a must in our opinion
+17/12/2019,Russ Shearer,Given many of these headers are legal requirements for compliance with CCPA and GDPR I'd love to see an update from Webflow on this.
+13/11/2019,ShijiHetras Team,Webflow team any news about the feature?

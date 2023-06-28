@@ -1,0 +1,8 @@
+Date,Name,Comment
+25/05/2022,Michael Wells,Just wanted to comment that I implement a lot of calendars event lists etc in sites and building this as a Webflow feature is a much bigger challenge than you might expect.
+17/05/2019,CHI FOLK,Additional alternative - https://loxi.io/features/
+17/05/2019,CHI FOLK,Examples to references for business requirements perhaps an integration into the CMS:
+20/03/2019,Guest,hello has any one already a solution: I found out Zapier works with Google Calendar and Webflow: https://zapier.com/app/home?selected_apis=GoogleCalendarAPI%2CWebflowDevAPI
+14/01/2019,Guest,Google Calendar shouldbe a better solution into webflow
+19/07/2018,Matt Neve,Seeing as Webflow are working on a e-commerce interface/elements it would be great to have a events / diary drop in. So instead of using the cms blog collections to create events. Something already geared towards events i.e calendars for events future publishing dates search within dates selectors for radius - especially if this could tie into the e-commerce to book and purchase the events. Wishful thinking but thats why its called a wishlist haha
+05/03/2018,Donald Moore,Not only a widget for calendar but configurable views. I use the calendar view and a list view on calendars I use on non-Webflow sites.

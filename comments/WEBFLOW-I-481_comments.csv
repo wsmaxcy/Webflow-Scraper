@@ -1,0 +1,3 @@
+Date,Name,Comment
+30/01/2019,Josh Hanson,It seems you can eliminate all references to googleapis.com by either using a custom font or using a font that is so widely available it doesn't require download like Arial. I just tested the site with my friend in China: when using a font supplied by Google like Open Sans it takes a full three minutes to load in China. After switching to Arial it loads near instantly.
+30/01/2018,Ross Cournoyer,Can host your own copy of jQuery locally:

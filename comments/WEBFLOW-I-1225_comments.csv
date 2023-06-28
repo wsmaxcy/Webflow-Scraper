@@ -1,0 +1,4 @@
+Date,Name,Comment
+01/08/2022,Jonathan Little,I would like to add further that it'd be incredibly helpful to be able to adjust the order of classes in the style manager. CSS is order specific if I create Class A and then create Class B that has new properties it will override Class A. This becomes a problem when I create global modifying classes that are used to override other properties.
+02/06/2022,Webflow Admin,https://webflow.com/feature/search-css-classes-in-the-style-manager
+29/07/2018,Johnny Liabø,I would also like to:

@@ -1,0 +1,2 @@
+Date,Name,Comment
+16/08/2022,DA Admin,I would expand this to be able to search or filter on any field.  So far as I can tell search looks only at name and slug - better than nothing but not brilliant in a 1000 item collection with 50 fields.  The filter option is of very little use as it looks only at publishing dates and status.  I work around it by pinning fields to the view and then sorting - but if the items I am looking for are anywhere but the first page its irritating.

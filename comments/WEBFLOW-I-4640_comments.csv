@@ -1,0 +1,2 @@
+Date,Name,Comment
+29/10/2021,James,Workaround: set the Rich Text field solely through the API.  Then the field contents are accurately retrieved via the API.  At least in my latest test case.

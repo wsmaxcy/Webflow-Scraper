@@ -1,0 +1,3 @@
+Date,Name,Comment
+27/11/2018,Tony Mungiguerra,Also being able to change the color of the arrows and pagination based on the visible slide. Some slides are dark some are light. Keeping them visible regardless of any slide's back ground would be excellent.
+30/10/2018,Simon Freund,I can't believe that this has not been done yet... it's such a pain to get the slider nav in line with your site at the moment... using custom css should not be how Webflow is supposed to work... hope this feature will be added soon.

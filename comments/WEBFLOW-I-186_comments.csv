@@ -1,0 +1,19 @@
+Date,Name,Comment
+13/03/2021,Ric Orna,white labeling is useless as is.
+05/03/2021,Fawn Lies,2021 here: really really wish that this was a thing. Kind of ridiculous that I have to present my client a Webflow hosted site in our development period. Also ridiculous that there's a limit to CMS items during staging. The only alternative seems to be paying hosting for the site before it's done and passing that cost off to the client but when development can take months it's a cost that doesn't make all that much sense with as much as I'm already paying to develop in Webflow.
+15/10/2020,Michael Tanner,As an alternate solution what if Webflow provided a 2nd staging domain? Something like temp.site that looks generic and doesn't include any Webflow branding.
+27/03/2019,Jake Kushner,Still can't believe webflow doesn't offer this but I guess they are holding out because you have to pay more money for a hosting plan if you want to show a preview without advertising them. Pretty slimy...
+01/11/2018,Martin Volek,Guys if you want to stage on subdomain just create it at your Domain provider and transfer subdomain to webflow with a CNAME record. Works like a charm!
+25/10/2018,Bart Denteneer,+1
+06/06/2018,Andrew Nelsen,You can definitely do this if your site has Webflow Hosting -
+04/06/2018,Benji Speer,I currently use a hosted webflow site as a landing page hosted on a subdomain to my ecommerce site.
+03/04/2018,FORM WA,+1 Definitely need this in place.
+03/03/2018,Think Tickets,Any updates to this?
+20/07/2017,Nick Dubé,Definitely need this one!  Prior to the hosting price increase we were paying $5/month during design phase to use our custom agency domain.  With increased hosting fee this is no longer feasible.
+12/06/2017,Jordain Johnson,Agreed we really need this!
+11/06/2017,Aleks Bahdanovich,Agreed with what everyone else has said. Staging on a custom subdomain is an absolute must – especially for freelance/agency use.
+17/04/2017,Mark Lee,I *just* signed up for the Pro plan with this expectation based on the "remove webflow branding from staging sites" portion of the White Labeling section. I guess the big "webflow.io" portion of the URL isn't part of that.
+23/03/2017,Andrew Leyland,A must for white labeling the platform! Clients/prospects sometimes connect the dots and ask why they would host the site with us rather than their own webflow account.
+04/02/2017,David Nayavich,+1 on this feature.  So important to be able to have our agency URL for staging!  Please implement this feature with premium hosting plans.
+04/02/2017,Dmitry Ratnikov,Must have thanks for that!
+25/01/2017,Markus J.,Absolutely – just found out in the forum that this isn't possible – even if one pays for a plan that alledgetly allows for whitelablling. Having to show a client a dev site under a webflow domain is not what I'd call whitelabelling!

@@ -1,0 +1,2 @@
+Date,Name,Comment
+16/04/2022,Dick Schiferli,We at PamBill have now added support for Webflow. This currently means you need to manually export the orders via the CSV export option in Webflow and then drag and drop the file on the PamBill dashboard.

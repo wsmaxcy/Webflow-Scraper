@@ -1,0 +1,2 @@
+Date,Name,Comment
+15/06/2021,Elliot Michel,While the XML attribute was introduced in API 27 the support for a light navigation bar was introduced one version earlier in API 26 via SYSTEM_UI_FLAG_LIGHT_NAVIGATION_BAR.

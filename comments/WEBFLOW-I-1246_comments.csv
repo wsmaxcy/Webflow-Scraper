@@ -1,0 +1,5 @@
+Date,Name,Comment
+07/12/2021,Evan McDaniel,Yeah this is a big problem for us. Hard to imagine this is intentional. Anyone from Webflow here to comment on this?
+31/05/2019,Jenevine Biscocho,Yes this is absolutely needed! Our agency just recently started hosting sites through Webflow. We were under the impression that if a Collaborator edits and publishes the .io prototype the changes would only be pushed to that environment. We found out the hard way that this isn't the case.
+28/01/2019,Caroline Sober-James,This is a pretty important feature -- Editors need the ability to publish their changes to a safe staging site before pushing out to production. Please implement the same options in publishing targets for Collaborators as we have in the Designer.
+14/06/2018,Thomas Daly,This is critical for our workflow as well. In the Designer we're able to publish to our staging environment or our production environment but our team mates who only use the Editor have a single Publish option and quite often they innocently publish a small change without realizing they're publishing a massive chunk of work done in the design that was NOT yet ready for prime-time.

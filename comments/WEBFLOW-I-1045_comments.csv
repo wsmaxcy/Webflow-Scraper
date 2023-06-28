@@ -1,0 +1,21 @@
+Date,Name,Comment
+21/04/2023,Himanshu Saleria,Hello peopleSince no one is listening to our requests I have decided to create a script/external file manager for webflow myself. Thinking about the following features for now:
+08/04/2023,Kate McMahon,People have been aksing for this for 7 years now!
+07/06/2022,Freddy May,100% agree
+25/01/2022,Julien Widmer,If webflow staff doesn't want to upgrade the limitation by default  they should put a "secret" option to force the limitation for that users that are super annoyed can break the limitation before they change to another soft that doesn't limit creation.
+25/01/2022,Julien Widmer,So frustrating. Can somebody from webflow can give any good reason why it's limited? I just want to go back to another CMS because of this stupid limitation. that's a nightmare to fix this with external links for all the scripts. Please change the number to 100000 that doesn't change anything for webflow owner just super annoying for users. If webflow was the perfect no code soft it would be ok to have 10 000 character but we are still very far from perfection and still need a lot of code to have something in the top of the game.
+12/08/2021,Branden Harvey,I want to simply embed transcripts onto my site — and the text embedded is well over 20000 characters. The process of reformatting manually takes 45 minutes per article.
+25/07/2021,Deniz Yalçın,How is this still a problem?
+20/05/2021,Kevin Handy,I would add as a stepping stone at least allowing for the SVG element.  Seems a lot of the complaints here and on the forums are like mine hitting the limit easily on SVGs.  Simpler would be removing the cap or at least raising it but I'll take the alternative too!
+14/05/2021,Rubén Alejos Dasilva,Super frustrating especially when trying to setup Schema.org. Why Webflow? WHY!?
+13/05/2021,Steve,It should be unlimited
+05/04/2021,Aaron Nadel,Yes very frustrating
+15/03/2021,Jason Watson,I need to be able to add Form Assembly forms to my websites and most of them require more than 10000 characters of code. please increase character limit.
+21/12/2020,Anonymous User,We have an app designed to embed payment buttons. Works great on every other website builder under the sun but due to the 10000 limit we cannot recommend Webflow.  I guess we have to send people to Wordpress or Squarespace. Sigh.
+17/06/2020,Jonas,Still relevant!
+15/10/2019,Evyatar Mor,I had that problem and here is how I solved it!You can add the <style> tag into the svg file! Then all you need is to upload it to the assets.
+09/10/2019,Adiel Slarmie,I keep running into this restriction just adding some javascript code please guys... 10K seems totally arbitrary. Just make it unlimited.
+03/10/2018,Benjamin Toby,This is just an example of how a good idea gets ruined by the company. How can this be an issue for a html generating webapp? I still don't get it.
+27/08/2018,Eric Potratz,Yeah I have several SVG text diagrams in my Wordpress blog and can't move over to Webflow until they increase this character limit.
+18/06/2018,Nava Cour,@waldo Knows how I feel about this. I am also building ecommerce forms using the HTML embed. Really dumb to have such a small limit of 10000 should be easy fix?
+07/05/2018,Jonathan Cardella,The fact that they don't already do this is beyond idiotic. Either let us be able full HTML edit on the code we are making or let us embed larger amounts of handwritten code. 10000 characters is barely anything.

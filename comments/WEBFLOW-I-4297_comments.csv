@@ -1,0 +1,8 @@
+Date,Name,Comment
+11/05/2023,Daniel Blank,Yes this feature sure would be handy!
+26/04/2023,Catalin,Wow... This needs to be implemented.
+09/03/2023,Rien,This is still a very welcome feature. I'll describe our use case for this. We have customer success stories on our website. They are in a caroussel on the homepage and you can click on one to go to the respective page with the full story. I want the title of that page to be<h1>Customer success story: {companyName}</h1>However I can´t do this right now! Making two h1-tags to achieve this would of course be a nightmare for SEO.
+02/12/2022,Ross Newton,Add three text fields doesn't work when trying to create a dynamic H1 heading for example. You can't add any more elements into a heading.
+09/11/2022,Alex Bass,This would make my life SO much easier honestly shocked it still doesn't seem to exist? Makes creating many more complex landing pages incredibly difficult.Anyone aware of a workaround? That thread mentioned here was from 2015/16.
+22/07/2022,Paul Seymour,Interestingly found this - https://discourse.webflow.com/t/insert-cms-field-into-middle-of-a-paragraph/20361 - Where someone from Webflow at the time says:
+08/05/2022,Gregory Hill,This would be a really big help and make a world of difference. It’s a major oversight for a basic functionality in my own humble opinion. Please do address this.

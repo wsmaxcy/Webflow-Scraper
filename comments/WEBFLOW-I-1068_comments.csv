@@ -1,0 +1,9 @@
+Date,Name,Comment
+06/10/2022,evACAD,Hi team Geo location is required as an internal feature for webflow. It will be a great help for non coders.
+25/07/2022,Moira Helena Assmann,Need this for the entire website
+19/07/2022,Hunar Syal,Need geolocation / geo-targeting features.
+05/08/2020,Joshua Farmer,Need this for our pricing page.
+05/08/2020,Andrew Thompson,Since we cannot store any secrets on webflow in the backend configuration which we need to call the commercial APIs - having an inbuilt geolocation feature would be very handy.
+09/04/2020,Rodrigo Galindo,It would be awesome if the items displayed in the E-commerce collection could change based on geolocation (proximity) data.
+14/01/2020,Julien Vanwinsberghe,I need this since a long time to order CMS geolocation items by distance from user location (for example a list of places or restaurants).
+27/05/2018,Marius Du Toit,This could be very useful targeting users with dynamic content based on their location

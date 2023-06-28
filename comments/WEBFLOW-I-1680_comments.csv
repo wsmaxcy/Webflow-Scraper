@@ -1,0 +1,5 @@
+Date,Name,Comment
+28/04/2021,David Shantz,This is not very professional grade. I suppose it is always possible to export the code add the video and host it ourselves...
+04/12/2020,Kevin Brenkman,I neeeed this even if its just for small video files up to 1mb? (In the CMS not the designer. Having to assist my client with uploading video files is kinda awkward since they are used to being able to do that in other CMS clients.)
+05/11/2020,Mathieu Preau,HiIt should be a normal thing to upload videos as assets when using paying webflow hosting. Webflow hosting is expensive but I can't do this simple thing. Heavy yt embeds (and other streaming platforms) are privacy and performance questionable and the need of an other hosting only for videos is really frustrating.I hope you will reconsider this option in a near future.
+10/01/2019,Webflow Team,Currently you can only upload short background looping videos with audio tracks removed that are under 30 MBs.  For longer videos with audio using YouTube or Vimeo is strongly recommended since they already have the technology to smoothly serve larger high definition videos.

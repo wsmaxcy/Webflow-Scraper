@@ -1,0 +1,2 @@
+Date,Name,Comment
+14/10/2019,Glenn McWhinney,Just to add my POV here and thanks for adding it Russell maybe the best way to do it would be to allow the creation of these variants in the backend - as Webflow does at the moment - and rather than deleting the variants that are not desirable (or possible) have the option to hide them so that they could be reinstated easily in the future? If the list of redundant variants is long and annoying the interface could always be designed to filter them out as you work on them I suppose. Glenn

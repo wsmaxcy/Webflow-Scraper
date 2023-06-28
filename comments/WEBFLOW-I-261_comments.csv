@@ -1,0 +1,21 @@
+Date,Name,Comment
+12/05/2023,Michael Sacco,Really wish that markdown support was natively available in Webflow.
+05/04/2023,Clayton Dukes,How is this not available yet?!?!?
+23/11/2022,Janet Gee,We can help you! We offer HR Diploma an enjoyable and rewarding career path for organized communicative and empathetic people who want above all to find the best workers to enable their company to reach its goals. HR is essential in every company therefore there is always a demand for skilled HR professionals.
+18/11/2022,Janet Gee,It really help. Want to study what you love? we provides a wide range of courses in College of Contract Management. Join us!!
+18/11/2022,Janet Gee,It really help. Want to study what you love?  we provides a wide range of courses is College of Contract Management.  Join us!!
+31/08/2022,EB,A must-have for every modern web workflow!
+09/08/2022,Michael Wells,https://discourse.webflow.com/t/using-markdown-and-html-tables-in-webflow/213494
+07/08/2022,Michael Wells,For anyone needing this now you can add this support using showdown.js and a bit of jQuery. You can place your markdown code inside of HTML Embeds which are now supported inside of Richtext content and can be stored in the CMS.
+15/07/2022,William Ruiz Morales,This would be great less marketing more markdown Vlad!
+11/02/2022,Evan Frawley,Hey everyone! I had this EXACT same problem. So I build a chrome extension to convert markdown that is copy/pasted into the rich text field :) Here's the link: https://www.fake.so/magicpaste
+03/11/2021,Clayton Dukes,PLEASE PLEASE do this. My company is migrating to Webflow and this is now a 100% show-stopper for us. The current editor is absolutely horrific. We can't even add ordered lists.
+04/05/2021,Alex Lazar,This would be really helpful especially when you use Zapier and getting text from other apps.
+04/03/2021,Gianfranco Suito,please. please. please. do this!
+26/12/2020,Dávid Lévai,Fully into it! It'd really help. The current Rich text editor is too simple. Markdown should help. Especially with syntax highlighting in rich text.
+11/10/2020,Serverless Guru,Hey there this is really critical to have markdown support we were planning to do a massive migration from Medium to Webflow for all of our blog content and push them into webflow using markdown format.
+09/07/2020,Shane O'Donnell,did anything happen with this?
+10/11/2019,Gael Blanchemain,and still no response? It's been 2 years now. Are you guys at Workflow too busy selling "business integration" to take care of your actual users? (devs)
+01/09/2019,Neil Taylor,Helps when drafting on iOS and other text editors or when collaborating...
+11/01/2019,Alexandre S.,Completely a must-have as we can spread the same text on several different platforms
+06/11/2018,Jean-Pierre Stopinski,Due to markdowns recent popularity spike i fully support this!Take care when implementing the syntax though due to various common "flavors" or "interpretations".Would be awsm if CMS compatible!

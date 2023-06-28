@@ -1,0 +1,4 @@
+Date,Name,Comment
+08/01/2019,Urs Bräm,/<!--  Last Published: (.*?)-->/
+08/01/2019,Urs Bräm,I'm thinking about removing them with a regex though
+08/01/2019,Urs Bräm,More so if you decide to version your designs in git you will have a lot of unnecessary lines / files in your commits reading

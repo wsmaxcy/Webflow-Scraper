@@ -1,0 +1,11 @@
+Date,Name,Comment
+22/05/2023,Alex Dixon,It's a small thing but super annoying on every project.
+07/04/2022,Yassine Khial,You could also use the custom code section to inject a dynamic image url into the og image meta and auto-generate open graph images with a tool like Abyssale
+05/10/2020,Pablo Armentano,
+15/06/2020,Tim Dawson,Embarassing handing over a site to a client and having them comeback with 'where do I host the open graph imagery'.
+22/10/2019,Øyvind Østmo,Ye this is an issue every time I launch a new site. I have to get the client to send me all the OG images for me to upload them to Assets and then copy-paste in the URLs. Uploading an image to this field from the Editor seems like a very trivial development task - got 10 minutes @webflow to help us out? :)
+03/01/2019,Brent Lagerman,been a while since this was requested it seems so easy!!
+04/12/2017,Handbuilt Developer,or should be able to select from uploaded assets...
+15/03/2017,Murray Heidebrecht,I agree! As a designer I need to be able to select an Open Graph image for a page directly without having to cut and paste the URL.
+21/02/2017,Kai Schneider,I think you can just upload the image to your sites assets. Then click the little gear icon and next to the file name there is a button that opens the image in a new tab. Just copy the url and use it in the open graph image settings.
+27/01/2017,Frederick Hofmann,true true it's copy and paste of export urls right now if you don't host with webflow.

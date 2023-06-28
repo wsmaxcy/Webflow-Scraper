@@ -1,0 +1,15 @@
+Date,Name,Comment
+23/11/2022,Kirsty,Crazy that we are still waiting on this after numerous Webflow updates. I have again had to change a nested collection into a full collection with a filter. These configurations lack the UX and functionaility of the nested collection option.
+25/08/2022,Kasper Dam,Sigh... when i found out this was not a thing. :(
+16/08/2021,CareValue,Hi all
+22/06/2021,Raphael Zwyer,Any shop offering more than a handful products needs the option for users to sort by specific/custom categories. I really expected this to be part of Webflow's ecommerce offering. Apparently it's not. Discovering that midway into my project means trouble with the client.
+09/06/2021,Niklas,yes please make the functionality complete!
+05/05/2021,Joseph ferrari,Please add this I dont understand why it is not available.  Its making eveything much more complictaed.
+27/04/2021,Raquel Pea,Ran into this issue today! It's causing a big holdup for launching my clients site. It seems like an essential function... to be able to filter and sort nested or referenced collection lists using custom fields.
+21/01/2021,James Walker,Come across this issue today! Seems an odd omission to me...
+09/12/2020,Tim Nyquist,I realized the difference between reference collection lists and nested collection lists. I added a similar idea at https://wishlist.webflow.com/ideas/WEBFLOW-I-3667.
+09/12/2020,Tim Nyquist,My example is for a theatre. I want to list all of the artists in a show as well as any and all characters they play in that show. I thought I would simply utilize a couple of multi-reference fields in my Artists collection.
+27/05/2020,Giles Holland,Even if I could rearrange the pills in the CMS editor that would be a manual workaround--that would take like an hour to implement as a temporary measure surely?
+20/05/2020,Егор Захаров,PLEASE! It should be by default
+17/04/2020,Chat Clussman,This might help you: https://webflow.com/blog/dynamic-filtering-and-sorting
+11/04/2020,Grace Allen,In some cases you want different sorting of your material. Popular examples may be to arrange the products alphabetically or even from the date they were produced on the web.Do My Online Class For Me

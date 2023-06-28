@@ -1,0 +1,21 @@
+Date,Name,Comment
+18/02/2022,Guest,You can finally export CMS Based Content or static with Stacket: https://stacket.app/  . It allows you to continue to design your Website in Webflow but export it somewhere else.
+22/04/2021,Nour Beiruti,It's 2021 and we still need this update as community that relies on Webflow it would be a great time saver having this feature.
+04/10/2020,David Tann,Agreed. My client has a medium size business and their hosting and emails are all tied together with another provider. Why can we not just export these pages?
+31/01/2020,Szymon Zurek,I can't convice all clients to sign up with Webflow. Some want to have their own hosting. Building websites with the CMS is so much faster. PLEASE just let us have the option to export static pages.
+16/09/2018,Pataka Spacek,Adding my vote with a big "PLEASE!" Our product database contains information created for various reasons solely within Webflow (categories edited descriptions manual discounts etc.) It is crucial that we can export this content for purposes of backup reverse-updating the external database creating printed material etc.). Sadly even the Webflow API Tester tool seems not to be available any longer... :-( Thank you!
+04/09/2018,Rene Lopez,It would be great to have this. Meanwhile I have to save each page individually.
+04/09/2018,Filip Moerman,I also want that ability because we make event pages for our clients and it would be good for them to have an excel sheet with all the data inside.
+28/08/2018,Eryc da Silva,I really wish there was a CMS to static HTML solution for those who want to go "server less".
+05/08/2018,Brandyss Adams,Where are we at with this? It's nearing 2 years backlogged...
+29/07/2018,MICHAEL GARSKE,This will be incredibly useful so I can create my CMS in webflow and backup externally.
+27/07/2018,Alexander Ayers,I need this so much... Please Webflow team
+24/05/2018,Jesper Fagerlund,We are currently building 3 sites for customers who are daringly accepting to keep it on Webflow. Their no 1 and only mayor concern: what if Webflow ceases to exist? What about our content?  This is a no brainer.
+14/05/2018,Jörn Klawan,What about a fully functional website export with with the cms items inside a json file? Just as static as before but you can design using collections and the site is working just as it does on staging domain.
+23/02/2018,Mac Dechmann,Yes it must be a solution to export it if u want to host the page on your own server. u can export it to xml and integrate a xml reader in the exportet page-script or integrate a api-viewer in the exported script. whatever i need the CMS content in the exported scripts!!!!!
+19/02/2018,Dexter,Just wanted to say the reason this is good for business is because if you have someone say "well..if I use this platform it will be difficult to get my content off later. Better skip it and try something else."The better argument is "you can switch if you need to but if you stay on there are certain benefits to webflow's CMS you can't get anywhere else"
+30/10/2017,Loan Depot,I cannot express enough how amazing it would be if we were able to design using the CMS engine and export statically. My team (corporate Instructional Design and Visual Communications) used Webflow to build a proprietary learning and product support site and we have had to do some workarounds to overcome the 100 static page issue by using multiple projects which creates way more work and planning than if we had the aforementioned. The CSV file does nothing to solve the issue we are experiencing.
+23/10/2017,Carly Bruce Harvey,Incredibly important. I don't want to be locked in to the initial structure I make for a collections list if I end up needing to make large changes to its structure over time. Being able to export data currently input into one collection list and import it back into another with an updated structure without having to do so one item at a time is a game changer.
+22/10/2017,Dario Berrebi,Hi there
+22/09/2017,Hector Muñoz Huerta,CMS hosting is too expensive if you only want to use the feature to build a static site that won't be constantly updated.
+19/08/2017,Russ Taylor,I vote to consider this option. Rather than a database consider using a flat file system.

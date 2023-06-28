@@ -1,0 +1,6 @@
+Date,Name,Comment
+29/06/2021,Revati Victor,I'm trying to port over my blog from Wordpress. It's a travel blog and I have hundreds of blog posts all categorized by destinations:
+23/10/2020,Captain,This is not already a feature??? It isn't just beneficial but an absolute must. Could be a deal breaker...
+15/06/2019,Jia Min Chew,A must for e-commerce
+01/02/2019,Caleosol Freeheat,I think for now their is no problems to do so. In our case we are using only the "ecommerce products" for minimal infos necessary for ecommerce. The rest of products info are stored in other collections we had before. And we "famillies" and "sub-famillies" collections for which we have multi reference to the products collections so we can place what ever products in what ever sub cat or categories.
+19/12/2018,Dakoda Johnson,Totally agree! Please please please!

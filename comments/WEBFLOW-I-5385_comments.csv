@@ -1,0 +1,7 @@
+Date,Name,Comment
+15/06/2023,Media Studio HK,Any plans to add simple data manipulation stuff? For example if I keep count of upvotes in a blog CMS field and I want to increment that by 1 if a user submits a form I can’t do that now. Or if I want to create a voting function where the number of votes is stored like Option 1 Option 2 etc etc in the Questions CMS I can’t do that now.
+08/03/2023,Guest,The post was well-written providing an in-depth WHO’s Global Strategy﻿
+30/01/2023,Rami Abdi,Please make this with ecommerce new order as a trigger
+13/12/2022,Pam Sykes,I can't believe this is a higher priority than adding really basic missing functionality like being able to add images from the Assets folder to a CMS. The big draw of Webflow is its DIY promise for non-designers which is being broken across the board right now.
+22/11/2022,JasonW,I agree with Andy logic natively interacting with photo and file uploads would be huge. I'm currently working on a project to allow the user to upload a picture and see it appear live. If logic X photo/file uploads was native webflow things would flow so much smoother. If there's a way to do this that doen't involve 3rd party integration I haven't figured it out.
+21/11/2022,Andy Hoey,Logic must include photo/file uploads for CMS plans! Imagine a user that can create a blog post live onsite without having to go through the Webflow editor

@@ -1,0 +1,2 @@
+Date,Name,Comment
+25/09/2021,Alicia Leroux,To create a payment on the client side add a Pay with GrabPay button and use stripe. confirmGrabPayPayment to handle the redirect away from your page and to complete the payment. var button = document. getElementById('grabpay-button'); button.

@@ -1,0 +1,12 @@
+Date,Name,Comment
+02/10/2021,Kai Brobeil,please do it huge blocker in using webflow at the moment. We'd literally use webflow for everything if it wasn't for the lack of exporting options. At least give us a list of components I'll write a custom wrapper for web components and we can finally use your amazing tool for complex app development as well.
+11/03/2021,Boris Périsset,yeah. it would be great to select static pages folder css or js files or even symbols (to work with external devs)...
+28/12/2020,Steven Brame,This would be a great addition. My reason is that I am on a limited Internet connection and I'd rather not have to re-download my images folder(including videos) each time I make a small change that doesn't affect them.
+26/06/2020,Alex Dixon,Would be handy to have the option to exclude pages from exports which are used for things like style guides and component libraries.
+10/12/2019,Elizabeth Gross,Yes....YAS PLEASE! This would make my life.
+01/09/2019,Martin Adams,I finally got so tired of manually exporting CSS each time (we use Webflow for prototyping) that I got around to automating the export process entirely: https://medium.com/consciousapps/exporting-css-from-webflow-into-your-app-a7a08e3c7731
+15/07/2019,Martin Adams,Since there’s not yet a single-button Webflow export for HTML CSS or JS I put together a little sequence using key automation (with the Keyboard Maestro app) — attached.
+09/02/2018,Martin Adams,As described here: https://medium.com/consciousapps/designing-apps-using-webflow-c1d0e8dd4d36
+09/02/2018,Martin Adams,Also add a “Select & Copy All” button for quick copying of HTML or CSS or JS code.
+30/01/2018,Matthew Oliver,I really recommend this. I had this issue recently with a team of designers where I worked. I made it work but none of them used webflow only me. Life would have been so much easier with selective exporting.
+10/06/2017,Evgeny Serg,I realy want this feature.

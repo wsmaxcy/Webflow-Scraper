@@ -1,0 +1,4 @@
+Date,Name,Comment
+18/02/2020,James Lenhart,Is this possible right now using firebase?
+19/03/2018,Aleksandr Pasevin,This is the only thing which I miss in webflow. Though I think this functionality would make their CMS obsolete in some cases because you would be able to use your own (e.x. Django) CMS instead.
+05/09/2017,Steve Schacht,Yeah it would be really cool if WF had a built-in way to access external REST API's and retrieve data in a manner similar to the built-in DB - i.e. the external data source would just be a type of "collection". That would open up so many possibilities. It should work with public services as well as those requiring authentication (a user's Google Facebook MailChimp etc. account).

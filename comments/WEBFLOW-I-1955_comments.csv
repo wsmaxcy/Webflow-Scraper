@@ -1,0 +1,2 @@
+Date,Name,Comment
+20/05/2020,Michael Greenwald,I was having this same issue but I ended up solving it with custom javascript. Create a custom code element on the search page and include this.

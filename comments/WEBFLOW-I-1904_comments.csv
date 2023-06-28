@@ -1,0 +1,2 @@
+Date,Name,Comment
+24/06/2023,Michael Sweeney,This needs traction. I have a special use case for this where I would like to run scripting on a set of pages behind a directory. Curreently as a workaround im using this method for /v1/* globally but would be nice to split out my code.if (window.location.href.includes('v1')) { /* code here */ }

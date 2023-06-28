@@ -1,0 +1,14 @@
+Date,Name,Comment
+06/05/2020,William Gen,You can create a symbol for GTM head code and insert it on every page. If you change the symbol it'll change across pages. Right now this is the closest solution.
+04/03/2019,Ronald Edwards,this would definitely make it more elegant than putting it in the custom code field ;) Thanks a lot in advance.
+14/01/2019,Rohan Ganachari,+3
+16/08/2018,Micheal Reno,We solved this for exported sites! Check out https://jinglebell.io you can save a GTM code and apply it to many sites on all pages at once.
+21/07/2018,Cameron Roe,Agreed! This would allow for us to add our Google Analytics in our Google Tag Manager container instead of directly in Webflow for better control. Google Tag Manager is really all that is needed.
+18/12/2017,Michael Wells,Adding some further references here for this item regarding the current "The Google Tag Manager snippet on your site is in the wrong location" error.
+18/12/2017,Michael Wells,Chris Greer- yes that's correct even if you can ensure that the HTML embed would render immediately after the <BODY> tag you'd need to create that on every single page on your site to have correctly installed GTM.
+11/07/2017,Guillaume Eyries,+1 This would be great!
+09/06/2017,Cameron Roe,+3
+06/06/2017,Chris Greer,How do you add the code for the <body>? And does this need to go on every page?
+24/04/2017,Christoffer Furnes,+1
+25/02/2017,Noelle Greenwood,Yes yes yes. So important.
+26/01/2017,Kai D. Thomas,Thanks for putting this on the list. Would make things much easier to implement!

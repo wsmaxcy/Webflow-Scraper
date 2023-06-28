@@ -1,0 +1,9 @@
+Date,Name,Comment
+27/10/2022,Cael Prussian,Having to add styles into an embed on every page of every project to see what I want in the designer really does seem like an easy fix with inclusion of a custom code editor built into Designers Styles menu.
+28/06/2019,Sebastian Zimmer,Less in the HTML embed would be perfect! For example right now i am really missing the "lighten/darken" feature.
+25/02/2019,Edvard Gezin,Calc() needs to happen please. Mixing units like calc(100% + 50px) for height and width would be no less than amazing.
+21/11/2018,Marko Jak,I'm struggling to bring in my own custom styling which is then available in the Designer.
+08/11/2018,Rijk van Wel,@Chris I think best is to put it at the top of the body; this should keep repaints to a minimum. Setup I have now is one embed block with class "styles" at the top of the page which I then give the following CSS:
+16/10/2018,Chris Wood,It's worth noting that placing <style> blocks inside the <body> tag may slow down the rendering of the page by triggering repainting:
+05/10/2018,Rijk van Wel,Thanks Matthew that is really helpful. Indeed pretty close to what I am describing here! I am using this technique everywhere now; usually I have one "Global styles" embed which I tend to put in the Footer symbol so it's automatically included on every page and then I have one "Page styles" where applicable. Only downsides are:
+21/09/2018,Matthew Sanderson,Hi Rijk did you know if you put a HTML embed element on your page then add <style> tags and your CSS the sales will render in the designer.

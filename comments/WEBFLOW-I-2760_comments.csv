@@ -1,0 +1,2 @@
+Date,Name,Comment
+23/04/2021,Zach Waggoner,You can currently achieve this via Udesly by converting your site to a statically generated site powered by 11ty. When you update your site you simply export out some files upload them to Udesly and it will upload the site to Github and kick off a Netlify Deployment. Might be worth a look.

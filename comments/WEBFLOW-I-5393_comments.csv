@@ -1,0 +1,2 @@
+Date,Name,Comment
+14/01/2023,Richard Cleeve,You can't delete the file with an API call either. The workaround I found to this was to have the form submit to a make.com webhook and save the file in a secure location from there. I used the method in this article:https://nocodequest.com/simple-webflow-form-submits-with-integromat/#part-6-collection-template--custom-code

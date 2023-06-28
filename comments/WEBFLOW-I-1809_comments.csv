@@ -1,0 +1,7 @@
+Date,Name,Comment
+28/01/2022,William Gen,This would be done with URL parameters so we dont run into deuplicate content issues with Google. Need this.
+01/09/2021,Per-Erik Ingjer,I manage an ecommerce store where we have the same product under different names as it is compatible with many different use cases. It would be great if it was possible to generate a product page (uniqe crawlable URL) for each variant with unique descriptions etc so we could switch to Webflow.
+06/12/2020,Kev Charlton,Agree could really do with this for a project I'm working on!
+10/05/2019,Tighe Flanagan,It would be nice to be able to surface variants in collection lists as well perhaps controlled through filters. In many online stores you see variants listed visually in the main shopping grid and click through brings you to the product page with variant options pre-selected (color/style).
+30/03/2019,Seth Ferguson,Related request: I want to be able to build a "category page" will all of the different variants on it (dynamically access product variant info) where clicking on one variant will link directly to it.
+13/02/2019,Hamish Maclean,Critical for sharing product variants with unique attributes.

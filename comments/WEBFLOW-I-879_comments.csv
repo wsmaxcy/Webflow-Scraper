@@ -1,0 +1,4 @@
+Date,Name,Comment
+22/04/2020,John Smith,The container element makes no sense. Just make a div and style it accordingly. More here: https://wishlist.webflow.com/ideas/WEBFLOW-I-491
+04/04/2019,Linda,The ability to change the max-width of the container widget - and  the width of the grid overlay - would be a useful improvement. For most websites 940px is too narrow so the container widget and grid overlay are not much use. I know you can create your own container but it would be nice if the max-width of the container widget could be customized.
+01/05/2018,Kyle Fs,Custom code to change the width is annoying as it doesn't allow preview in the designed.DIV works fine but ads some extra steps configuring it for the first time in every project.If the max width option was unlocked to change in the designe it would make the process a bit more efficient.

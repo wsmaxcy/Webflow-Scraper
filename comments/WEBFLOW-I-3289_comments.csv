@@ -1,0 +1,17 @@
+Date,Name,Comment
+06/05/2023,Philip Stancil,This seems obvious.
+20/01/2023,Brent Lagerman,AVIF has browser compatibility PLEASE allow uploads into collection items !! :D
+31/12/2022,Ben Biazar,I converted my JPG files to WebP. I found the quality of WebP is so bad even if you put %100 quality. I regret that I converted all my assets to WebP and I want to turn them to JPG for now.
+25/08/2022,Tyler Joseph,This would be so helpful
+19/07/2022,Tyler Joseph,Smaller files than webp
+16/07/2022,Claude Robert Lefort,the quality of images in AVIF is spectacular at half the size of JPEG. Safari will be supporting it in v13 in fall 2022. Webflow must consider supporting this open source format that will become the standard
+24/03/2022,Giovanni Bonomelli,Please do this!
+28/02/2022,White Horse,Please make this happen webflow! we need faster pagespeeds.
+18/02/2022,Guest,You can use AVIF Image Format finally with Stacket here: https://stacket.app/ for both images and background images aswell with a fallback aswell.
+14/02/2022,Ahmet Bayram,Pls add the Future
+12/01/2022,Chris Saldana,Please Webflow haha
+12/01/2022,Ezekiel Rochat,This would be great!
+01/12/2021,Patrick Palacin,Would it be possible to have an official statement from Webflow according this? I understand not supporting webp but as avif is the new standard it should be integrated as soon as possible.
+15/11/2021,Matthew Tschiegg,This is the biggest complaint from my https://developers.google.com/speed/pagespeed performance analysis.
+12/05/2021,Jakub Mazanec,this is must have... pls add it!
+06/05/2021,Chris Hawkins,I will just note that AVIF is supported now by all major browsers and is quite easy to impliment. It will likely save hosting costs for Webflow as well. We actually had it working on our website prior to migrating to Webflow and this was one of the major losses we incurred by switching.

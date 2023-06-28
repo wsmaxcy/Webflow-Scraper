@@ -1,0 +1,2 @@
+Date,Name,Comment
+09/07/2021,Webflow Admin,Thank you so much for posting this Yiannos! It's unlikely that we'll build out functionality to add subdomains which point to specific pages in a Webflow project. An alternative would be to instead build out those pages on your primary domain such as: /page-contentThen within your DNS provider  you could create redirects to point subdomain visits to those specific pages. For SEO it's also recommended to host those pages under your primary domain to build domain authority rather than distribute it among subdomains.

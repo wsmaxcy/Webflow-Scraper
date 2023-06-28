@@ -1,0 +1,8 @@
+Date,Name,Comment
+08/02/2023,Oussama Atlassi,highly needed
+29/12/2022,April Kang,This is highly needed for blogs and search results.
+18/10/2021,Vincent Gravel,This is highly needed for Blogs. For example sorting search results by an Articles CMS collection should be easy to do. Currently we need to find custom solutions which is unideal and not available to those without a network of resourceful developers.
+17/05/2020,Matt Brodersen,We recently migrated our Wordpress blog to Webflow. We have hundreds of posts roughly 800. It would be great to set a filter to sort by the most recent posts. Unfortunately at this time older posts are showing for particular search terms.
+11/11/2019,Matthew Mcauliffe,I have created a site recently that involved the import of a lot of data we broke the process in to chunks most important data being 2019 went in first followed but 2018 etc. This does not pose a problem on the site as all the pages that display the content work off the broadcast/publish date that we imported. However the search tool delivers results based on relevance and 'creation date'  - since we imported 2018 data after 2019 it effectively has a more recent creation date and therefore comes up first in search results - I'm faced with leaving it as it is or deleting all the data out and importing it again which will take ages!i would like to
+02/09/2019,Bryan Maniotakis,Agreed I'm currently stuck unable to use search because the organization of the search page isn't easily understood.
+14/11/2018,Sato Ozawa,It would be great if Webflow would add a future that lets us prioritise some collections and collection items from the others.

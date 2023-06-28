@@ -1,0 +1,21 @@
+Date,Name,Comment
+25/05/2023,Alex Reznik,Please do it
+23/05/2023,Prod Camp,It's quite strange that security features are only available on the enterprise plan.
+09/05/2023,Wehaa,There is still no solution for this. It is very necessary for SEO and site ranking.
+24/03/2023,Nick Weisberg,+1
+06/02/2023,Jamie Johnson,This isn't a quality of life update this is literally a crucial and fundamental security feature that you should be utterly ashamed of not already providing. It's a make or break aspect and is forcing us to migrate our clients to different website hosts.
+31/01/2023,Rogier Roukens,+1
+31/01/2023,Lindsey Chupp,Please add this to ALL plans. This is becoming extremely necessary for our company and we are not a large enough company to justify your enterprise plan. If we can't gain access to this ability we will be forced to build on another platform. Unfortunate because Webflow is great otherwise.
+29/11/2022,Baker Street,Our clients are neither in need of nor budgetarily able to switch to the Enterprise Plan and if purchasing it is the only way to prevent them from failing their regular website audits then we are going to be forced to start cancelling our client websites and rebuilding them from scratch in Squarespace.
+29/11/2022,Baker Street,Our clients are neither in need of nor budgetarily able to switch to the Enterprise Plan and if purchasing it is the only way to prevent them from failing their regular website audits then we are going to be forced to start cancelling our client websites and rebuilding them from scratch in Squarespace.
+22/11/2022,Veer Manhas,We successfully added HSTS for a client and esured SEO was not affected. Reach out to us at https://littlebigthings.dev
+21/11/2022,Jamie Johnson,This is a standard security protocol that webflow is gatekeeping in order to force people to pay $15k for an enterprise plan. Due to this we have clients failing their security audits which is starting to necessitate us moving projects away from this platform due to webflow being unable to meet basic privacy standards that are free with pretty much every other platform.
+22/09/2022,SimpleKYC,Security must be a must for all plans it is an important requirement for many tech companies please prioritise easy and affordable security options for all plans.
+01/08/2022,Aaron Zide,We need the HSTS header option for annually for security Business. Our HTTPS only website has a low hit count so there’s no need to upgrade to enterprise or enterprise lite. Security practices such as these should be tablestakes for a business plan.
+17/07/2022,Marilou Lepage,important
+29/05/2022,Andrew Taylor,Our webflow sites fail audits because of this. This is required and should be standard functionality not only available on 'enterprise lite' for $15k/yr. Please fix quickly.
+19/05/2022,Ashli Weiss,I would like to have an HSTS support for my site both for welawllp and projectlibby. thanks
+15/04/2022,Bridge,Let's Make HSTS Affordable Again!
+24/03/2022,Jacob Stanton,Please add the HSTS header option for 1 year for Business  Our HTTPS only website has a low hit count so we have no need to upgrade to enterprise.   I also dont want to recomend migrating off this hosting provider for a simple header.  thanks
+18/02/2022,Guest,You can host the Site with Stacket: https://stacket.app/  where you want and then add the security headers what you prefer :)
+14/02/2022,Novus Marketing,Just want to add our support to providing HSTS as a default option for non-Enterprise customers. The cost seems (?) low considering Webflow offers HTTPS as part of its standard package.

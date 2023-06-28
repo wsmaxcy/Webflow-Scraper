@@ -1,0 +1,15 @@
+Date,Name,Comment
+11/01/2023,Gordon Evans,This is so needed for things like centralized emails phone numbers etc.
+16/10/2022,Earl Varona,Yes! This feature will allow clients to change their phone numbers email addresses etc. in one place and automatically change every element that is referencing to them.
+25/09/2022,Michael Wells,To my last comment adding API to the needs for get/set these vars. Which of course means Logic as well.
+25/09/2022,Michael Wells,NICE. I just came here looking to add this wishlist item.
+16/06/2022,Jacky Choo,This is going to be useful for us we have 2 sites (1 for staging 1 for production) for each of the env i would like to add redirection link to its specific env eg.
+23/09/2021,Patina Photo,Another use case: for pricing info
+30/06/2021,Ron Ferrell,I have found a way to do this realtively easily with JavScript and I SUCK at Javascript. I  have a snippet of Javascript that changes the Copyright Date on everypagel. Every year it will update itsef. I tried this with just using the company name and it works. It is done on page load so I am not sure the SEO implications/impact. Also this is great for pricing if you do not have enough items to warrant a CMS site - I.E. I have a customer that has one product and is going to sell via PayPal but I want to be able to advertise the price everywhere and not have to worry about changing 50 places or missing one change down the road.I am not sure I can paste the code in here so message me and I will send it to you.
+22/12/2020,Michael Wells,This can be done in a very crude way using a JSON chunk in your site header and script to search/replace specific areas you want to apply it. But that's very ugly and prevents clients from managing those variables through the Editor interface. I have a similar need for popup notifications with a chunk of richtext and the ability to turn that alert on/off.
+17/06/2020,Rickard Lindgren,Yes please
+29/01/2020,TRU MRK Agency,Reallllly need this one. Any update? If not can this be achieved by a script?
+20/11/2019,Justin Maxwell,Is there any way we could do a workaround on this with the CMS?
+20/11/2019,Justin Maxwell,Yes please
+03/05/2019,Chris Brewer,More Use Cases:
+07/11/2018,Tim Daff,Related: Style Variables: https://wishlist.webflow.com/ideas/WEBFLOW-I-55Symbol Variables: https://wishlist.webflow.com/ideas/WEBFLOW-I-1558

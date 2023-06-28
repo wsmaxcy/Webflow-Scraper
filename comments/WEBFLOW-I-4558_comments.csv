@@ -1,0 +1,2 @@
+Date,Name,Comment
+08/10/2021,Webflow Admin,Hey Andres it is highly unlikely that we’ll be able to support individual news site videos but it is currently possible to use this video on your site by copying the embed code for the video and pasting it into either a html embed element or the embed element inside of rich text.

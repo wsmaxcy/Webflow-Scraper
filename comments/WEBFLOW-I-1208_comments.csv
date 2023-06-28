@@ -1,0 +1,6 @@
+Date,Name,Comment
+04/05/2023,Jon Burdon,I have importsnt clients who will not use webflow if this is not implemented.
+15/12/2022,Stephane Pouzenc,... We could ask for more control over the actions of an editor (logs per user restricted access to certain pages etc.) but this is the high priority that our cybersecurity-sensitive customers request: the security related to the "editor" account is too weak => thank's to the Webflow teams for integrating this minimal functionality 2FA without further delay...
+30/11/2022,Andrew,This is critical. Collaborator rights give enough control to completely ruin a site so their accounts should be protected with MFA.
+23/09/2021,Edwin Brito,To work with some enterpise companies 2FA is required.Please add 2FA for editors and passwork protected pages.
+05/08/2021,Saturday Primary,We have several clients asking for this!

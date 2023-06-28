@@ -1,0 +1,3 @@
+Date,Name,Comment
+06/08/2020,Giles Holland,It's not the same thing. There's nothing in the custom animations that give you easing open/close (even though you can trigger animations by dropdown opening/closing). Basically this feature exists for a mobile nav menu but for some reason is missing for regular dropdown lists and there is no clear workaround.
+20/06/2018,Scottie J. Haines,This already exists. It's called a drop-down animation available in the interaction panels for drop-down menus.

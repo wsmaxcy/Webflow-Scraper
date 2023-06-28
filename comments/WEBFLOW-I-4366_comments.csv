@@ -1,0 +1,2 @@
+Date,Name,Comment
+17/05/2022,Alan Alston,I built a site-builder back in the day and what we did was for any images collection to be displayed as both a grid (for re-arranging) and a list (for titling and alt-texting). We used to kick out unique internal links to each image that could be embedded anywhere else in the site without uploading it again.

@@ -1,0 +1,5 @@
+Date,Name,Comment
+04/05/2023,Jon Burdon,This is essential. I have clients who will not use Webflow unless this is in place.
+11/04/2023,Thomas Heher,webflow becoming more and more popular this should be addressed by the developers really soon as webflow systems becomes more interesting for hackers too.
+15/12/2022,Stephane Pouzenc,Here an other same request in the wishlist vote for it !
+14/12/2022,Stephane Pouzenc,The security related to the "editor" account is too weak. It is surprising that this issue is not more popular ! We really need it : "editor" entry is very vulnerable ! especially since the password can be defined and worse reset directly by the editor himself : a simple access to his mailbox and anyone can modify the contents of a site... it is critical ! it allows a low level attack with a great effects !We could ask for more control over the actions of an editor (logs per user restricted access to certain pages etc.) but this is the high priority that our cybersecurity-sensitive customers ask us: thank's to the Webflow teams for integrating this minimal functionality 2FA without further delay...

@@ -1,0 +1,11 @@
+Date,Name,Comment
+26/09/2022,Roger Grijalva,I'm straight up concerned that this is an issue for over five years now. Honestly regretting using this service over doing things by hand like I used to.In some ways webflow saves me time. But when the most basic five second features are being thrown out like this it's pretty dubious to continue using such a low end service to be blunt.
+05/04/2021,Kirill Diakonov,this should be the basic functionality the fact that it is still not implemented indicates the wrong priorities in the development of features. Please start with the basic tools.
+17/01/2021,Emil Villumsen,It's silly how this is still an issue.
+13/04/2020,Eddie Velez,As a new user this is a little concerning. This seems like it would be basic styling functionality wouldn't' it?
+13/02/2020,Sufia Arsala,test
+26/07/2019,Izsi Salmon,This is absolutely crucial to clean styling and good developement practices. Webflow claims that it's made for developers but when it has errors as basic as this it makes it impossible for developers to use it properly.Webflow is way too over priced for such cheap service. I can't believe this issue is over two years old.
+09/04/2019,Kyle Schmitz,Couldn't agree more. I had a case where I had the base class for an .item then a class for the .item-width and then a class for the .item-image. There was no way to select .item or .item-width at the Tablet (or lower) breakpoint.
+31/03/2019,Kalan Howse,Wishlist created on May 12 of 2017? That's nearly 2 years ago.I've just come across this issue and am extremely surprised that it is a 'problem'.
+16/10/2017,Matthew Sanderson,I run into this all the time.
+16/05/2017,Webflow Team,I run into this all the time. Usually have to remove the combo class style it then re-add the combo class. It's tedious.

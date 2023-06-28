@@ -1,0 +1,2 @@
+Date,Name,Comment
+12/04/2019,Webflow Team,If you're trying to add the video as a video element that component only works with video platforms that are compatible with embed.ly.  But you can still pull that video in with an iframe code snippet. Here's an example: https://cl.ly/0c3a7545791e

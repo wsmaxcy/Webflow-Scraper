@@ -1,0 +1,21 @@
+Date,Name,Comment
+16/05/2022,Convincible Media,In particular for instance to set the redirection URL.
+30/03/2022,Barbara Prusiewicz,Any update on this from webflow team?My basic requirement is that I want to populate some form fields based on CMS item values. Is the solution custom code from sygnal ?  Setting default values for form fields based on context or dynamic data seems like a very common requirement.
+20/10/2021,Michael Wells,There are some scriptable ways to do this that will serve until Webflow adds this kind of capability. My Webflow Util library specifically started with the feature of databinding a SELECT to a Collection List.
+14/09/2021,Lachlan Hamilton,My use case: Need a select field that is populated with CMS items in my case students. I want the tutor to be able to update the student's time.
+09/08/2021,SH,Also the ability to populate select inputs in forms based on the options in the CMS.
+09/08/2021,SH,We need to be able to populate redirect page straight from CMS.
+22/02/2021,Ben Lindsay,You can do this by adding a hidden form field with a HTML embed.
+04/02/2021,Pavol Megela,I'd really consider this a basic functionality with e-commerce driven world right now I wonder how is webflow build that not even after few years customers are still waiting for this feature.
+08/01/2021,Hai Taiber,High Priests of webflow any news about this one ?
+05/10/2020,Mr. Joinal,I am using CMS for my E-commerce store. Its a awesome platform
+22/05/2020,Stephanie Green,How is this not available??? Any update on when this can be expected?
+25/03/2020,Javier Revilla,Guys this would be great please do it!
+22/03/2020,Adam Lacey,Any update on when to expect this?
+09/03/2020,Jaxon 321,You should install this app. this app provides different benefits. your data is saved when you install it you can also recover data through this app. epikgo hoverboard review
+04/03/2020,Lucas Farias de Moraes Sarmento,Please make this happen!
+19/12/2019,Alex Dixon,This feature would be super useful for many use cases such as booking forms.
+19/12/2019,Reid Niermann,Would be very helpful!
+10/12/2019,Txell Gimenez,please!!
+08/09/2019,Matteo Grand,This needs to exist. Perfect example use case is a client of mine that would rather have an 'enquire now' form for each of her artworks rather than the option of buying online. We currently can't set dynamic form names in the product template so we don't know which artwork the User is enquiring about without adding a dropdown asking the user to select the artwork they're currently viewing.
+27/06/2019,Okantan Ayeh,This would be so useful!! Any updates???!

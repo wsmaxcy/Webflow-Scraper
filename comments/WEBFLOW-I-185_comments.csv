@@ -1,0 +1,12 @@
+Date,Name,Comment
+09/04/2019,Gareth Moïson,+++ Please
+10/11/2018,Jim Cassimatis,I think this was just implemented (10 Nov 2018).  Title of update "Client Billing billing emails now come with PDF receipts". If this is the case could somebody on staff please confirm and mark this as completed.
+01/08/2018,Gleb Gomberg,Hmmm... I don't have that option to email invoices...
+13/07/2018,Bodie Brower,This should be SUPER easy to implement as a light feature... no?  Just have a Yes/no slider and an email address to fill out if you want clients to receive billing invoices?  Please please pretty please.  Bonus points for being able to customize the email :) Also  I've already done half the work already for you with the provided attachment!  YAY!!! :) :) :)
+09/07/2018,Evan Cowan,Yup.. please help webflow
+02/07/2018,Bartholomäus Zientek,real pain in the a** for me month for month!
+17/02/2018,Rob Saville,Can’t really add any more than has already been said. This needs to be implemented.
+06/12/2017,Michael Wells,On a related note the designer needs to be able to opt out of receiving "Client billed" notifications. I'm receiving dozens of these a month which have absolutely no use whatsoever to me. The configuration page for notifications does not allow me to opt out of these and I can't choose a different email for them to go to so I just keep getting spammed continually by the system to my main work email.
+21/08/2017,Christoffer Furnes,The fact that my name is used on the invoice instead of Webflow means that I have to charge norwegian VAT for the hosting on top of the hosting. This renders client billing pointless to use in Norway. Client billing is a great idea but needs more work!
+14/06/2017,Steve Holmes,I have also raised this with the WF team (Dave has been brilliantly responsive) because my issue (as well as this manual process for the client to receive the invoice) is that my details are on the invoice and NOT Webflows — although the billing is entirely handled between my client and them. Hopefully this will all be sorted soon :)
+23/05/2017,Jörn Klawan,This is very annoying and giving me extra work every time client gets billed. The whole point with the client billing is to have it on automation but now I have to go and download the pdf and then send it to the clients.

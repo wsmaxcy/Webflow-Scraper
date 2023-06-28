@@ -1,0 +1,3 @@
+Date,Name,Comment
+10/07/2021,Eric Potratz,Yes this is a current problem with webflow. The smallest size is 500px but there are many times when mobile thumbnails need to be smaller than this and it wrecks the Google pagespeed scores.
+26/06/2021,Webflow Admin,Webflow automatically handles responsive images. Learn more about the feature.

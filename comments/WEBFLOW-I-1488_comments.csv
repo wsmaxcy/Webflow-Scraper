@@ -1,0 +1,18 @@
+Date,Name,Comment
+13/06/2023,Mappa Workspace,Have the custom file types been added to the CMS ? .gpx files aren't working.
+13/06/2022,Chris Wells,+1 for .BIB files please.
+06/08/2021,Rhys Dyson,Any progress updates on MP3 support?I was just bought a 12 month account plan and spent 4 days rebuilding a prototype of a client site to migrate over from WordPress only to discover WebFlow does not support MP3s files. The lack of MP3 support is an absolute deal breaker.
+08/12/2020,Jouke Zomer,Is there any way to upload a .gpx file in the cms? My client wants users to download the routefiles so they can ride the routes.
+04/11/2020,Webflow One,We really need the ability to upload mp3 files... already two of my customers want to play sounds on their websites but there is not even the possibility to upload a mp3 file with cms... so we use a really unsatisfactory workaround with soundcloud links. It cant be that hard to make it able to upload a mp3 file and maybe even add an audio player which is nothing else than a button which plays a sound. I mean... its 2020 xDHere's a example of a website i want to be able to create with webflow: https://www.stimmenkartei.de/synchronsprecher.html#Sprecher
+03/09/2020,Carrie Monescalchi,We really really need the ability to upload .ics at the very least it's a very small format and really a huge flaw here.
+02/07/2020,Russell Tice,Any updates on adding the ability to upload an ICS files to collections? Seems like a common need for scheduling events......
+24/05/2020,Dmitry Ratnikov,Audio support is super needed! I'm forced to setup Amazon bucket just to add 3 audio files to my Webflow cms hosted site. At least you could add mp3 support with 1gb quota for all audio per site!
+16/05/2020,Dmitry Ratnikov,Thanks for posting this absolutely must have feature. The pric of CMS and E-commerce can easily withold mp3 and aac audio files RAW images etc
+30/05/2019,Hamish Maclean,I would like the size limit per file to be higher. A minimum of 30mb. This will allow people to submit quality images. It would have to be larger for RAW files.
+06/05/2019,Jan-Niclas Burghard,Hey
+09/11/2018,Jim Cassimatis,Actually the most important file type that should be supported ASAP is the .zip file as this can encapsulate anything.
+09/10/2018,SketchzLab,I agree with Nelson. At least let us have the .ics upload available first. The sooner the better. The team can consider about other file format later on. 😉
+08/10/2018,Webflow Team,Thanks for the clarification. I noticed this too and changed the status of this item and added it to the backlog. Stay tuned for updates :)
+08/10/2018,Adrial Dale,Not so fast Nelson! :D
+08/10/2018,Webflow Team,I just checked with our team and you can already add custom file types to your form file uploads:
+08/10/2018,Webflow Team,Great idea :) I have added this to our backlog.

@@ -1,0 +1,5 @@
+Date,Name,Comment
+07/04/2022,John Ciccone,This is so badly needed. I'm jumping through too many hoops of guesswork to figure out what fits into the viewport vertically (e.g. iPad phones as per other posts here).
+09/09/2020,Maciej Sawicki,I agree I have a real use cases where my clients tell me that something is wrong on iPad Landscape and I need to use hacks to fix it or adjust the design
+19/12/2018,Vasken Sayre,Tablet landscape view is a requirement. The entire purpose of creating Desktop Mobile - Landscape and Mobile - Portrait support is so that we can design for devices other than simply desktop. It's a tremendous oversight to leave out Table landscape from these break points. An alternative would be to let the Webflow users easily define the break points themselves.
+04/03/2018,Niall Mc Dermott,Really need this on most of my websites.

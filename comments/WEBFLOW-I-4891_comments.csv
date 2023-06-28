@@ -1,0 +1,3 @@
+Date,Name,Comment
+10/04/2023,Teagan,The link Christian posted works for Collection items only whereas in my situation I'd like the last-child to apply to any last page Section inserted by someone who's not me (so they don't have to remember to add a class). Obviously there are ways to do this manually but they require everyone potentially touching the project to remember or know how as opposed to being configured to happen automatically.
+11/11/2022,Christian Hustert,I think this is what you are looking for:https://university.webflow.com/lesson/style-first-last-odd-even-items-in-your-cms

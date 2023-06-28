@@ -1,0 +1,21 @@
+Date,Name,Comment
+01/08/2022,Milk Studio,I use Firefox over Chrome as Chrome eats up too many system ressources and makes my Macbook slow.I can easily use Webflow in a Chrome window for the editor. But it doesn't work well for me as it forces me to keep switching between Chrome and Firefox for the editor and my other windows. Keyboord shortcuts are different as well as the inspectors.Also honestly I'm not sure how much I would trust a website-building company that doesn't support a browser like Firefox. It sends a completely whack message in my book and is reminiscent og legacy software that only works on certain browsers. And at the very least until the issue is fixed I would put up a message to the user saying you do not support Firefox. I wasted an hour and through the problem was on my end. Your editor just stops and the loader hangs forever because of JS error:"Uncaught (in promise) TypeError: can't access property 1 u.match(...) is null". I'm in the process of considering having large clients hosted on your technology and that's not very assuring I gotta say.
+17/06/2021,Jared Rice,I am fairly new to Webflow and was not aware of the new support for FF. As an avid FF user I am really glad that it is being supported! However I have noticed a few issues:
+04/03/2021,TTT,Very much agree that full Firefox support woudl be greatly appreciated and the Webflow platform has develped to the point now where attention to this matter makes sense.
+14/01/2021,Dejan,Scrolling is very slow in the designer with Firefox.I've tried turning off smooth scroll and autoscrolling features
+05/07/2020,Edward Powell,Would absolutely love to see full support for Firefox although it seems to work decently well at the moment!
+15/12/2019,Cley Randal,I can't believe a site with a template building proposal doesn't support FireFox!
+30/01/2019,Christian Bulesz,Thanks much appreciated. Wouldn't it be easier though to simply call FF and tell them to finally fix that 16 year old bug??? Hope for the best Christian Bulesz
+17/01/2019,Kaleb Leon77,Please make it work for Firefox I'm not moving to Chrome
+10/01/2019,Daniel Alter,Scrolling using my mouse doesn't work in the designer (latest version of Firefox). Scrolling with the scrollbar is fine though. Hopefully this will get fixed soon.
+04/01/2019,Hamish Maclean,I would like to leave chrome. I like the webflow eye dropper extension though ...
+24/12/2018,Christian Bulesz,I'm hoping to see it work in FF too. Has the FF design team been informed about this issue? Is it still the same in FF Quantum? Why would they keep this as is for 16 years while just about everything else changes all the time?
+13/12/2018,Joachim Waledzik,Most of my clients work with the Firefox Browser...
+07/12/2018,G G,It´s now available though not fully supported. Thanks!!!
+03/12/2018,First Class,yes please
+02/12/2018,Winston Struye,This would be awesome! As someone who supports using small(er) non-profits that don't sell my data for profit I try to use Firefox as often as possible and often get annoyed when I have to switch to Chrome. I'm looking forward to this.
+28/11/2018,Aaron Guzman,Firefox is my default browser. The designer working in Firefox would be awesome.
+28/11/2018,David schlatter,Yes vote to add Firefox and Edge as workable browsers for WebFlow. While we may see the world in Chrome...our clients see it many other ways and being able to test edit and view in those other browsers is important.
+19/11/2018,Jeffery Plummer,Good day.  Still waiting for Firefox/designer support.
+05/11/2018,Mike Skelly,Wings clipped before I can even get started.
+05/11/2018,Filip Moerman,I would like that to

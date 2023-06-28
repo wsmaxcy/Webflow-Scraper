@@ -1,0 +1,5 @@
+Date,Name,Comment
+06/09/2018,Webflow Team,Thanks for the clarification. Since browsersync is a separate app we would need to see how we could implement that in.
+05/09/2018,Ezra Siton,I want browsersync for the publish .io URL
+05/09/2018,Ezra Siton,No in the designer. I work on mixitup in the designer (Ok no custom javascript her) - publish the site. The live url for the testing - each publish in webflow i should also do "F5" for this url (For 7-8 hours of project its 200 page refreshes).
+04/09/2018,Webflow Team,While this is a great suggestion I filed this under "Unlikely to build" because testing custom javascript code from within the designer can cause security issues.

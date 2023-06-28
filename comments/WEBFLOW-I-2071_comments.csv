@@ -1,0 +1,2 @@
+Date,Name,Comment
+13/09/2019,Nicholas Toth,I have this problem with Canadian provinces. The other solution I've thought of is like your A) solution but build a separate page for each province/state and in the UI they first select country then province/state (my client sells to Canada and US). Then you list on this product web page what taxes are included in the price and I believe you could also put a note in the receipt specific to that product. Hopefully groups of states charge the same amount in the end and you don't have to build 50+ pages for one product!

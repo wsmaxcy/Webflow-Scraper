@@ -1,0 +1,3 @@
+Date,Name,Comment
+19/06/2022,Florent de Goriainoff,Would like to support redirect with unix-hidden folder path "./well-known/file.txt"
+07/05/2020,Maciej Mach,"" would be nice too. Expecially for clients with wordpress pages that would like to transition to webflow. Lack of "" and ability to use 301 redirects really messed up one of my projects.

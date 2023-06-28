@@ -1,0 +1,3 @@
+Date,Name,Comment
+05/04/2021,Vivianne Jacobson,I think it's auto generated (well not "generated" but simply displayed as soon as there is a value to display). I don't know how it goes under the hood. But any custom key is displayed in tooltips/menu without asking you to edit the code of blender and make a new build.
+09/03/2021,Jones Edwardo,Having shortcuts always display in tooltips really should be baseline behavior. In this case we may safely add “for F's sake” - at least if you follow me. Also all currently set keyboard shortcuts should always be explicitly written out at the end of every row in all menu windows that list commands.

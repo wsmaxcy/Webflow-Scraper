@@ -1,0 +1,3 @@
+Date,Name,Comment
+24/01/2023,Peter,Sorry wrong link. Here's the correct one:https://www.digidop.fr/en/blog/conditional-visibility-according-to-webflow-date
+24/01/2023,Peter,This has now been implemented kinda. Not exactly as you requested above but it should work for your purposes. (You specify the number of days before or after a date but there's no 'today' option.)https://discourse.webflow.com/t/date-condition-visibility/65452

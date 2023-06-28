@@ -1,0 +1,2 @@
+Date,Name,Comment
+27/05/2019,Jon Way,I did figure out a work around for the second one– pretty simple really. Add another image field to the product collection and just reference that image in all layout/checkout instances and never use the actual product images.

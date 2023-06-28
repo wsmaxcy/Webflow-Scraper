@@ -1,0 +1,7 @@
+Date,Name,Comment
+08/03/2022,Roland du Toit,Yes please. This sort of blows my mind that this is how it's handled. Many of Webflows URL structure limitations and shortcomings can be overcome with the business plan for 60 CMS Fields per collection and using conditional visibility.
+05/03/2022,Benjamin Levis,Impressed by your ideas and writing skills
+11/08/2021,Esteban Suarez,It would solve all my problems if conditional visibility was server side. Why isn't it already? There are no drawback if moved to the server
+25/02/2021,Sam Pilgrim,Just discovered this. This is frustrating from a performance point of view.
+27/08/2020,David Mack,This is impacting my page load speed as images are all loaded despite never shown
+13/07/2020,Glen Burnett,I concur with this feature wish list item. From an SEO point of view it's not good to have content that is loaded when the page loads to then be hidden from view. Google will still pick up on that content and mark down a site's search ranking results for hiding content that it thinks should be available for users to see.

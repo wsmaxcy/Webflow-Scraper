@@ -1,0 +1,14 @@
+Date,Name,Comment
+20/04/2023,Yurgen Hohmeyer,We've now crossed the six-year mark with this still not being added to the single image field.
+29/12/2022,Studio VOS,Soon it will be 6 years that this simple thing still has not been implemented... The speed at which Webflow improves its product ist just laughable.
+25/09/2022,Sebastian Schilling,Plus the alt tag field for images should be supported for bulk imports. When I create a multi-image field I can only edit the alt tag for each image one-by-one in the designer.
+29/06/2022,Andrej Schulz,The multi-image field already has setting alt text implemented. This should be set on single image as well. Setting alt tags in a separate field is silly and impractical.
+04/01/2022,Nils Heinemann,Copyright AND alt-text for images inside webflow CMSWe need the opportunity too add alt text AND copryright-information seperately to an image. For example a photography needs alt text but also copyright information from the photographer to display on the site.Right now we need to add extra fields to webflow cms for each image what makes no sense.https://wishlist.webflow.com/ideas/WEBFLOW-I-4732
+29/12/2021,Mustafa Ozalcin,This is a very low hanging fruit quick win "feature" that can be added literally overnight as it exists for multi-images. Why this isn't already present is quite baffling!
+30/03/2021,Megan Carson,This is ridiculous is there still no way to add alt text to single images in the CMS?
+10/06/2020,Studio Institute,It doesn't make any sense to have an image field that doesn't have an alt-text associated to it. The new Multi-Image field has alt-text baked in; let's do the same thing for regular image fields! No more using an additional set of fields just for the purpose of alt-text.
+26/02/2020,MJ Petroni,Omigosh this is definitely needed! Accessibility fail.
+03/11/2019,Joe Bates,I want it too!
+13/08/2019,Noel Braganza,I'm continuing this discussion in 2019. Please add this feature. It's kind of silly that it doesn't exist yet.
+19/06/2019,TRUE,This seems so straight forward a need. Everyone wants basic SEO tools.
+23/02/2017,Jordan Stambaugh,YES. My SEMrush is yelling errors at me - all of my webflow sites have nearly 100 errors because image Alt tags are not specified and cannot be specified in the CMS. I wasn't even aware of the extra text field work around but yes that's pretty silly given the CMS field cap.

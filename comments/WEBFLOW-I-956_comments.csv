@@ -1,0 +1,2 @@
+Date,Name,Comment
+25/11/2020,Vincent Bidaux,It used to be possible with a script and it's somehow still possible (https://forum.webflow.com/t/mouse-movement-ix-to-accelerometer-movement-on-ios/109349). However since iOS12.1 the user is require to give the website access to accelerometer. Which is... less than ideal if not a total deal breaker.

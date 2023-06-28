@@ -1,0 +1,21 @@
+Date,Name,Comment
+10/01/2023,Filip,The CMS rich text editor has some bugs that makes editing really not pleasant. For example pasting bulleted lists does not render the list items as lists and the editors need to edit each item again.
+06/12/2022,Petr Hejtmánek,Not having the word copy-paste resolved already is really messed up...
+10/08/2022,Ingrid Ødegaard,The fact that there are no extra levels on lists.. How is this not in place to copy/paste from documents and get the correct formatting.
+21/06/2022,Dylan Colby,We NEED dynamic page zones like this to create custom page layouts in the CMS. This is CRUCIAL to Webflow.
+09/07/2021,Garret Voorhees,Still running into copy/paste bugs when pulling in content from Word in addition to general bugginess when trying to update lists and headers. I hope that this is being prioritized soon!
+19/06/2021,Kori Eames,I can't believe there is still no table support in the rich text editor for doing blog posts. I can't recommend Webflow for serious use without this. This is such a fundamental feature.
+28/03/2021,Pratik Kanodia,Still facing this. Love webflow but if the rich text editor is broken and I can't copy paste things then how is any work going to ever get done? Pasting as plain text removes all styling (duh) making the process of adding a simple blog really cumbersome.
+11/03/2021,Tomas Ferezou,I agree it is a nightmare and needs improvement.
+20/01/2021,Connor Chatting,Please get this improved it's such a bad UX for us Designers and our clients
+13/01/2021,Valentin Steber,That would be fantastic!
+28/12/2020,Rosa M.,Ditto Shaun's comments below.
+16/12/2020,JM Kriz,Would you believe the issue where you paste something into a Rich text field and spaces are randomly removed between words STILL hasn't been addressed? The workaround is to paste as plain text and then format seriously hampering the actual functionality of a Rich text field.
+13/11/2020,Shaun Johnson,Just moved across from WordPress to Webflow. Whilst this has been good for the static pages on our site I have to say I was shocked at how bad the CMS capabilities are in Webflow. As in there's pretty much nothing you can do other than basic text. I'm not looking for advanced features just the ability to format the text in different ways.
+23/09/2020,Ana Villarama,Highly agree. It would be AMAZING to create templated blocks of content in a webflow styleguide that content editors could then choose to add in and order it as they please. If not that I would just like the option for one of the CMS fields to be "image OR video".
+15/09/2020,Nicholas Lorenson,I just found out that the rich text editor doesn't actually support typical features of the rich text format.
+01/07/2020,JM Kriz,The comment below this comment is fantastic.
+17/06/2020,Sery Lee,I think it's enough said when this comment HTML editor is way more advanced than Webflow Rich Text. My client is not very happy that you can't even do a simple bullets followed by another sub bullet
+03/06/2020,Jake Spirek,Related to this my big gripe is not being able to use symbols. https://wishlist.webflow.com/ideas/WEBFLOW-I-1145
+29/02/2020,Ayrthon Sadikrama,The current "rich text" format is not really all that rich... Can't even center text???
+16/01/2020,Jane Stone,Looking the best post here to when will windows 7 support end it is the use full.

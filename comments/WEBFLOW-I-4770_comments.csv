@@ -1,0 +1,3 @@
+Date,Name,Comment
+28/01/2022,INAGREAT,Yeah I initially thought it was just a problem with combo classes and then I thought it may be a problem with capital vs lowercase but now after testing it I see it is a far larger issue across all classes. No matter what class you are creating if it already exists the program will still allow you to make another one of the same name just by hitting the down arrow. Which is a major issue because when you go back to make edits Webflow gets confused. 😡
+27/01/2022,Cielo Corkery,Thanks for sharing i was having the same issue and still finding the solution share if you have any thanks in advance Toys r us credit card

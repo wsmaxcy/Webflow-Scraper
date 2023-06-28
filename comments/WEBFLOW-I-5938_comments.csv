@@ -1,0 +1,3 @@
+Date,Name,Comment
+03/04/2023,Jesse Aerts,The sorting options dont show on collection lists that are connected to multi reference fields.
+29/03/2023,Christian Warken,Hey you can simply add a new field called "sorting field" and then on the right in the options set to ascending order by this field and then assign values 123 etc. to each item! Works 100%

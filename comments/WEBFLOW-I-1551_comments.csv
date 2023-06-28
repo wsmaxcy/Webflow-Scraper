@@ -1,0 +1,9 @@
+Date,Name,Comment
+23/09/2020,Loren Tracy,I agree instead of hiding the div or item with the display setting which actually changes the way your page renders allow us to hide the layer in the Navigator so that you don't see the item in the designer but it still shows up when the page is rendered. Would be great for overlay menus and page transition designs.
+08/10/2019,Josh Priollaud,Maciej is correct.
+06/11/2018,Maciej Sawicki,I researched more:
+06/11/2018,Maciej Sawicki,@WebflowTeam I looked into the settings panel and the difference in my use case is that I need to hide/show on all devices with one click. Think of another toggle there that hides the element on all devices and grays out the specific per-device visibility.
+06/11/2018,Maciej Sawicki,There are 2 major use cases:
+05/11/2018,Webflow Team,This would be an interesting feature.  Currently we have the visibility options in the settings panel already.  Can you help explain a use case for this feature?
+04/11/2018,Maciej Sawicki,Old related forum thread https://forum.webflow.com/t/add-layers-toggle-visibility-show-hide-like-in-photoshop/24352/2
+04/11/2018,Maciej Sawicki,And it would be useful to have a keyboard shortcut to toggle visibility of selected element for example Cmd + H

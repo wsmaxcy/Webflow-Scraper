@@ -1,0 +1,21 @@
+Date,Name,Comment
+05/05/2023,Wouter van Waning,Finishing up on my first big Webflow CMS project. Happy creating everything so far with so many beautiful workflows around implementing CMS elements but absolutely stunned to find out I have to deselect every "Collaborators can edit this element" on the site to prevent future disasters once giving my client access. I was expecting something so radically more advanced from this beautiful platform that I'm quite shocked...
+02/12/2022,Gabe Hilliard,Please update this! I have no idea how this is still an issue.
+26/05/2022,Michael Wells,I've expanded on this here with a number of fixes in the "collaborators can edit" capability.
+25/05/2022,Michael Wells,Want to add two things-
+05/04/2022,Colin Martin,Wow I can't believe that this does not seem to have been sorted by now.
+19/02/2022,Bad 66 Studio,Any solution - the simpler it is - would help here:• Uncheck all by default
+03/02/2022,Tyler Wessel,This is a much needed feature. It definitely takes a while to uncheck everything to hand off to the client. As another poster said if not be default being able to choose to apply the check/uncheck to an entire class or single element (much like in interactions) would be extremely beneficial and time saving.
+04/11/2021,Manuel Engler,Yeeeees! PLEASE make it unchecked by default. It´s crazy I just had to manually deactivate this checkbox literally hundreds of times! It does not make any sense to give a collaborator all that access – they could mess up everything.Alternatively (if deactivating by default is not possible for whatever reason):It would also help massively if an element would inherit the setting from a parent element.
+26/08/2021,Au Courant,Definitely needed for serious client work.
+11/08/2021,Gregor Middendorf,I was doing a search and found this topic. I fully agree with everyone before me. Its absolutely necessary to be able to make a global option to make elements non-editable by default. I have not found this option anywhere in 2021.
+03/08/2021,Stefko Kruse,it's insane that this is turned on by default. An untrained customer can't just customize things on the website. I would at most have individual texts customized and would like to be able to individually set what the customer can customize and what not. i now have to uncheck the box for what feels like thousands of elements.
+03/08/2021,Stefko Kruse,Yes absolutely! it must be so that this option is generally turned off and you select only the elements that should be editable for the client.
+23/04/2021,Tommy Asselin,I agree as well. I'm now on that task as a new user of webflow  and was searching for an "uncheck all" option. Reading the comments and seeing it has been a request for over 4 years is crazy. Unless I'm missing something and it has been added in the last months... Back on the task a few hundreds of checkboxes to uncheck...
+23/02/2021,Scott Hannon,I agree with all of the previous comments. Also would be nice to be able to uncheck items and anything nested underneath would automatically be unchecked (or checked) or have the choice of individual item and hierarchy.
+10/11/2020,Keven Lupien,Would be great as an option in settings to choose if it's checked/unchecked by default but if that's not an option then definitely unchecked by default.
+26/05/2020,Bogdan Darev,We're having to uncheck everything now as well. We will build this in our workflow but when we started out we didn't know we would be handing over access to selected editors. This default feature would really save time.
+16/03/2020,Joe Villanueva,Please please please do this. Unchecking everything is insanity.
+10/03/2020,Andres Herrera,yes this is just an check box!!
+20/02/2020,Joe Davies,This NEEDS to be sorted.
+22/08/2019,Morgan Leahy,Not done yet?

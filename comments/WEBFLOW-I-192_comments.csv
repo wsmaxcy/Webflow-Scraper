@@ -1,0 +1,21 @@
+Date,Name,Comment
+12/06/2023,Rory,I think it's pretty crazy the features webflow does have but then it doesn't have custom breakpoints. Framer has custom breakpoints oxygen builder has custom breakpoints bricks builder has custom breakpoints TeleportHQ has custom breakpoints even Elementor has custom breakpoints. Full stack developers adjust their main media queries to suit their workflow and the project their working on. In webflow you have to use media queries in custom code to have any control and then you end up with a mess where what you're looking at in your designer and what your style panel settings are don't match.It's a basic feature of modern web builders especially one that markets towards the professional market. It wouldn't be half as difficult to implement as the features Webflow are working on now such as eCommerce and Logic. You just need an input box that updates the breakpoint media query in the css then update the designer accordingly.
+04/06/2023,Noah Osas,We need custom breakpoints! This should be a priority as responsiveness is a priority.
+27/05/2023,Henk de Blauw,Would love to see this in either:
+26/02/2023,Ninon,Highly needed...
+11/01/2023,Catalin,This is a must. Some elements just break on certain sizes and having the flexibility to create a custom breakpoint to fix that issue would be a nice addition.
+04/01/2023,J,It is crucial!!!
+11/10/2022,DA Admin,Just discovered my design breaks in ipad landscape - have read the forums and found its a well known problem. This is going to be a ton of work to solve.   Pleeeeease webflow give us a fix for this....
+02/10/2022,Robin Fang,It's useful.
+13/05/2022,Yusuf Malik,I just neeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeed it!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+28/04/2022,Edward Vizard,Highly needed!!!
+27/03/2022,Aenias Fritsch,EditorX will definately kill webflow beacause of this if you don't implement it quickly!
+27/03/2022,Aenias Fritsch,This major issue is the only reason why i don't use webflow. You software is great but this is not something you yhould put into "lower priority" this is THE ONE MAIN PROBLEM with your awesome software.
+20/03/2022,Julien Gouz,I understand that custom breakpoint is not the top priority but maybe it is possible for now without taking too long to code to just hade a breakpoint preset that is working find with apple table in landscape mode ? As it is IMO the most common issue with breakpoint !
+06/12/2021,Steve Doetsch,You can already do custom breakpoints via the "custom css" for a page or the entire project. While adding that feature to the interface is nice it is still fully possible to do and webflow does not stop you from having them.
+30/11/2021,Jimmy,I love how everything in Webflow is customisable... except the breakpoints!?!? HOW?
+18/11/2021,Adriano Resende,I think that adding breakpoint for height is very important because I use VH on the section tag and it makes quite a difference between the macbook and the monitor.
+09/11/2021,Jonathan Ingemarsson,This would be very helpful indeed!It skips a vital part of the possibilities compared to others ways to create a website.
+16/10/2021,Schuyler,The biggest problem is large portrait tablets. Things get weird when I can't customize those sizes. I have to think you guys have iPad Pros at the office and know this. Would be great if you addressed it.
+27/09/2021,Zhong Hui Tee,Can allow us to add our own custom breakpoints? i would need it.
+20/09/2021,Reynard Muliaina,Yep need this.

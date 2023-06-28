@@ -1,0 +1,21 @@
+Date,Name,Comment
+08/06/2023,John Kattenhorn,I'm forced to double-up my website count and stripe account not to mention break the terms and conditions of stripe usage because the test mode is not support in Webflow.Please address this issue and add this featureBest RegardsJohn
+30/05/2023,Matthew Ward,Please hire Paul Jurczyk for this... I'll pitch in. Really... what's up with 5 years and no answer?
+21/05/2023,Paul Jurczyk,Any update on this? Hell I'll build out the feature for you guys for free. I can't imagine it taking more than 20 hours of dev time - if that.
+10/02/2023,Stefan Weber,This is really a must have. not being able to test your most important user interaction is just too bad to be true.
+05/01/2023,Ruairi McNicholas,Is there a timeline on this?There are a few glaring holes in Webflow's eCommerce ability that you wouldn't find in any other serious eCommerce offering and this is one of them.
+14/12/2022,Javier Rodriguez,"Do not use real card details. Testing in live mode using real payment method details is prohibited by the Stripe Services Agreement. Use your test API keys and the card numbers below."
+23/11/2022,Olivier Alcouffe,Still not possible ? WTF
+12/10/2022,Ronald Taylor,Need this feature please!
+04/09/2022,MICHAEL BRANCONIER,Please
+12/08/2022,Onyinye Udokporo,I can't believe there's no test mode it's absolutely ridiculous.
+10/08/2022,Andrew Holmes,We need this why is this not available.
+25/05/2022,Colin Vallan,I've just spent 3 weeks setting up an ecommerce website for a client moved to a paid hosting plan and only just now found out that you can't test your sales flow with Stripe in test mode. What??? How is this not available? How could you even release Webflow ecommerce without this? I'm dumbfounded and in disbelief. I see that people have been asking for this for more than 2 years how is it not fixed/available yet?
+14/03/2022,Tim Clayton,Create a coupon for a 100% discount. Still gonna have to use a real card though.
+15/11/2021,Evan Nicolini,So frustrating that there is no way of me knowing if my checkout page is functioning properly!
+20/09/2021,D2 Marketing Solutions,Yes
+21/07/2021,UXFLOW,Yes so what are people doing now? Do you just have to publish to public domain and then test?
+21/06/2021,Abraham Aguilera,YES!
+16/06/2021,James Wolpert,Encountering this exact problem.
+09/06/2021,Scott Sharkey,I'm trying to test sample payments for our site right now and just came across this thread. Please implement. I'm really surprised this isn't already a basic feature.
+10/04/2021,Tobias Wagner,We just encountered this problem! An early customer on our site encountered errors during checkout. I can’t ask them the right questions that would help me pinpoint the problem. I would need to create a very cheap fake product that’s live on the website during the time of testing in order to trouble shoot this as a workaround. It’s a no-go whichever way you approach it.

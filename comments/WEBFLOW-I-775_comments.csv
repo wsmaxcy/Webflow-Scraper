@@ -1,0 +1,21 @@
+Date,Name,Comment
+20/03/2023,Chris,It's not just about mass import - you might need to manage them later as well. The best thing would be a simple plain text field to where you could comment out redirects as well. Inside that field you simply copy paste all your urls in a certain (CSV?) Format - done :)/old/new#/old2/new2
+28/11/2022,Joe Kneale,None of the code snippets (that would be pasted into console) work - do what Michael recommends below to import/export use Finsweet - it's f'in sweet!
+31/10/2022,Michael Wells,For CSV imports use Finsweet's free Chrome extension.
+28/09/2022,Dave Radparvar,Still waiting for this feature and along the same lines ability to bulk export as well!
+31/08/2022,Nozzle Ai,Hey everyone
+16/05/2022,Megan Tilton,Yes please!
+27/02/2022,Graphite Marketing,Yes please!
+23/05/2021,Juraj Carnecky,Yes please :)
+30/04/2021,Abby Cameron,Yes please! Would love the ability to import all redirects!
+08/02/2021,Max Shepley,I have created a short tutorial showing how you can use Janne's hack AND Parabola to bring together your URL links and follow the var redirects structure. Hopefully some find it helpful!
+03/01/2021,Max Shepley,I've made a video to build on the use of the script posted below. The script is amazing but isn't too helpful if you have 1000+ items and don't want to manually enter them into the script. Using Parabola's free tier you can do this really quickly! Check it out: https://youtu.be/fhHLOyVrwkk
+16/10/2020,CareValue,Janne's hack worked!!!! I put 800 redirects into an excel sheet concatenated the data together to follow the var redirects structure and then copy and pasted into the google dev console. No need for a timeout this hack is truly awesome. Thank you Janne!!!!!
+16/09/2020,James Seigel,Please!
+09/09/2020,Gustavo Alonge,Yes! Please!
+25/08/2020,Rob Day,Yes pelase! This is essential to anyone having to move over legacy websites
+02/03/2020,Janne Kanerva,This hack works at least with few redirects in the list. If more maybe some sort of a timeout between addRedirect calls is in place...
+27/02/2020,Rachel WastePlace,woof. yeah i was lucky i only had 70 or so but I've had plenty of projects where this would have been brutal.
+30/01/2020,Alexa-Rae Navarro,This would be a gem. Please bump!
+29/01/2020,Terry Hopper,Yes please. Redirects are a pain but so important for SEO.
+14/01/2020,Jake Spirek,Pretty please!

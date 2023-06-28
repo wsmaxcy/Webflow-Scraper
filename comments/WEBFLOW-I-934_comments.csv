@@ -1,0 +1,7 @@
+Date,Name,Comment
+15/11/2021,ALTERNA ENERGIE,We share Marc Gale's concern.
+06/01/2021,Oliver Merlin,No Webflow does not support SAML Protocol although an interface is created by miniOrange which would allow Webflow SSO integration and users can log into the platform seamlessly where a logged-in user's existing session can be used to log the users into Webflow by creating a valid JSON Web Token ( JWT ).
+18/01/2020,Krishna Vijay,Does webflow support SAML?
+18/01/2020,Krishna Vijay,Did Workflow support SAML?
+12/06/2019,Marc Gale,As the Director of IT for a large public company we're making a big push towards securing our SaaS systems like Webflow among others. Lacking a SAML 2.0 option is a serious shortfall for such an essential tool. There will come a day where organizations like ours will no longer be able to use Webflow due to the fact that 1) Data is less secure over secure web authentication and 2) Manually provisioning and deprovisioning users is tiresome especially with large teams.
+17/07/2018,Zain Burghed,yes please.

@@ -1,0 +1,9 @@
+Date,Name,Comment
+15/03/2023,Amir Zelcer,Also provide a way to batch-change classes names with find/replace
+11/10/2021,Richuack,The Webflow Team comment on: "You can name your styles & classes accordingly to name your elements" is not a good solution precisely for the the reasons that Dave Foy clearly explained.
+11/10/2021,Dave Foy,Using class names to label sections in the navigator is NOT an acceptable solution here.
+16/03/2021,Adam Scipio,The name in the navigation bar is the same than the class name.
+02/10/2020,Daniel Brian,@Nelson I understand. I think it would just be nice to not have to add a new class to rename your elements in the navigation section of the platform. Kind of like photoshop layers. If there are thousands of elements or layers you want to be able to differ one section from another uniquely without adding more classes. A feature that isn't needed but would be sweet. Cheers!
+27/11/2018,Matias Fiori,Hi Tal Pistol I also think that it would be great if webflow allows to change class names within layers panel. Not sure why Nelson is not getting the point here (kind of defensive).
+29/07/2018,Christof Nagel,I see. The name in the navigation bar is the same than the class name. So I would need to have a seperate class for every element if I like them to have different names on the navigation abr right?
+27/07/2018,Webflow Team,You can name your styles & classes accordingly to name your elements.

@@ -1,0 +1,6 @@
+Date,Name,Comment
+17/05/2021,Martijn Hoppenbrouwer,Any updated info on this?Having unique pages/content on subdomain-pages is really really handy.Anybody with any recent success with this?
+01/02/2021,Tsering Paldon,Please make subdomains happen. Just like:
+10/10/2018,Tomas Westerholm,We are able to build .htaccess redirect list to manage subdomains into individual pages but the URL will change from a.b.com -> b.com/a when landing at Webflow. So please add one more vote to make it professional looking and easy to host.
+02/02/2017,Webflow Team,It's a duplicate of https://wishlist.webflow.com/ideas/WEBFLOW-I-220. Multi-language support can be found here: https://wishlist.webflow.com/ideas/WEBFLOW-I-58
+02/02/2017,EQS Design,This is similar to this: https://wishlist.webflow.com/ideas/WEBFLOW-I-220 but with additional functionality

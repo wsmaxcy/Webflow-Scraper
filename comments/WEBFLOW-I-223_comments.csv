@@ -1,0 +1,10 @@
+Date,Name,Comment
+10/12/2022,Ben Biazar,In the middle of my project the logo can't be embedded because of the limitation. " exceed 10000 characters"
+16/11/2020,Christian Heyne,+1000 | highly needed:))
+16/03/2020,Patrik Norell,This is a "workaround" that will allow you to change color of an svg
+30/12/2019,Mariia Kulida,+1
+09/08/2018,Andrey Tyshko,and need change colors when mouse hover )))
+25/06/2018,Charles Gerli,Linda is correct the current effects options do not allow you to change the color state of an .svg from hex A to hex B. For example we want to change the fill of an icon from one color to another when the tab label containing that icon is selected.
+27/04/2018,Linda Griffen,While I can change color with Hue Rotate Saturate and Brightness I do not agree that this can be done under Effects to the preciseness that it should be able to be done. Effects does not allow me to specify an exact hex color which is often necessary. Having to create SVGs in different colors is a time consuming pain.  Please do not close this wish list item!
+17/10/2017,Christoffer Furnes,This request can be deleted its can be done under the effects rollout!
+22/08/2017,Miek Thompson,+1

@@ -1,0 +1,5 @@
+Date,Name,Comment
+21/05/2020,Reza Khan,Era of integrations... let's do this!!
+07/02/2020,Mike Dee,Server side code would be phenomenal. They already run on AWS. Just the ability to utilize Lambda functions to run behind the scenes would open up sooooo many doors. Especially for larger scaled teams that require deeper functionality and custom integration. Even Wix has this apparently. Come on Webflowwwww 🥳
+17/12/2019,Liezl Puzon,I can do this with a bunch of GET and POST requests but it makes page loading super slow. There has to be a better way!
+02/06/2018,Martin Wawrusch,That would be such a life saver. Just pulling content from our API and rendering pages in webflow with that data would make a huge difference (and remove the need to nginx reverse proxy two sites)

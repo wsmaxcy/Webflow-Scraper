@@ -1,0 +1,2 @@
+Date,Name,Comment
+03/09/2022,Michael Wells,For people needing this now I've devised a styling hack that repurposes the Superscript and Subscript styles to create two custom styles. However this approach may confuse clients who have to remember to use the Superscript and Subscript styles to access them. It may also impact accessibility since Webflow generates <sup> and <sub> elements here.

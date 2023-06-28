@@ -1,0 +1,7 @@
+Date,Name,Comment
+05/12/2022,Andy Taylor,A little update on this. Still not in Webflow but Foxy now offers Gift Card functionality (in Beta).
+06/03/2022,Eavan English,I don't know why this is not standard on the ecommerce already. Yes I can do it with separate integrations but that is taking on another set of account management
+08/09/2021,Brandon Tuttle,Does anyone have a work around for this? Or a bolt on option? Really hard to believe this isn't already part of Webflow.
+02/05/2021,Lóa,Expose the discounts in the API please.
+16/11/2020,Andy Taylor,Hi Mick (sorry don't seem to be able to "tag" / reply to you).
+10/11/2020,Mick Wieland,Hi Andy I also need a downloadable Gift Card feature in my Webflow site. I figure I can create a supply of PDFs that are uniquely numbered and have the client track which ones were redeemed...but I don't see how to set this up in the Webflow ecommerce area. Were you able to make any progress here?

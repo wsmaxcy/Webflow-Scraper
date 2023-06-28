@@ -1,0 +1,21 @@
+Date,Name,Comment
+20/06/2022,Mark Allen,The Zapier integration with Jira Service Management Cloud lets you automate tasks you would otherwise have to do manually.
+26/03/2022,Georg Kuklick,May 2018??? Is there a reason why Webflow is sleeping on this?
+02/09/2021,Joe Averbook,Think I found a workaround. For Airtable -> Webflow at least using a tool called Whalesync. Link: https://www.whalesync.com/
+03/06/2021,Terrance Kinsfather,I need this!!!
+25/05/2021,Austin,This would unlock so much capability in the CMS – espcially for scaling with a lot of contributors to a CMS because having multiple people logged into Webflow does not work. Also helpful for partners/contributors who we don't give access to Webflow.
+19/10/2020,Jens Terryn,i need this to please take a look at this
+08/10/2020,Nicola Toledo,any update?? in my case i need in the cms collection page the item id of the page for send it with a form to zapier but i need the cms item id not the slug because don't work
+12/08/2020,Jan,Any news on this topic here?
+02/07/2020,Nils Heinemann,We need this ability! Please!
+21/05/2020,Lane Bowman,Is this still in the pipeline or should we look to work-arounds?
+12/01/2020,Craig Wall,I too would love a working solution that is 'native' to Webflow & Zapier
+28/08/2019,Avaronnan Abhinesh,I found this one working for a single reference link. Thank you.
+12/07/2019,Jesse Avshalomov,I found a workaround for this!
+02/06/2019,Gene,This has been missing since 2017 any chance it will ever be implemented? Need this for a functional Zapier setup.
+20/03/2019,Marco Volpato,Hi Tim any chance you could explain how this works/how you achieved it?
+19/02/2019,Hamish Maclean,That's a cool solution Tim Daff. Will try it out
+30/10/2018,Tim Daff,Hi guys I figured out a way to reference items via Zapier so long as your use case is ok with having a predetermined list of collection options available to reference.For example in my use case / scenario.I have a "Product Code" collection add a `Webflow UUID` plain text field create a bunch of collection items then use chrome dev tools to get the UUID for each one and save it to that item.I then have a Google Form our staff use to upload items to various collections.  The UUID's are "hard coded" into a Dropdown list on the google form then populate to a sheet.  Zapier then picks up submissions grabs the UUID and content then populates the UUID in Product Code reference field.I find it very handy as you can have different collections referencing the Product Code and relate them in Collection Lists etc easily in webflow and being zapier powered you don't have to use up any of your Content Editor spots for staff to add structured conent to the site.If anyone is interested in the method let me know and I'll write something up.
+29/10/2018,Hamish Maclean,I nearly had a magical moment with a airtable > webflow zap where the client would not even have to login to webflow for a new event. But nope.
+12/09/2018,Connor Finlayson,actually couldn't agree more. This functionality with AirTable would take my time savings to new heights!
+12/09/2018,Connor Finlayson,YES

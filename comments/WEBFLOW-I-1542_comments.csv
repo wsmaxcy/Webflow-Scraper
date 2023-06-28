@@ -1,0 +1,5 @@
+Date,Name,Comment
+11/01/2023,Paul Ferguson,Another basic quality-of-life feature Webflow needs even if it's not at the top of the list. For example I'm currently editing text that has an image beneath it in a div and it WILL NOT stop selecting the div instead of the text element I've had to just constantly hide the div to make edits.
+17/08/2022,Dylan Bush,Would be very useful for editing text that has another item on top of it!
+15/07/2019,Eric NIshioka,yes please! I use a custom build flexbox row/column grid and would love to be able to lock down certain classes/elements and alleviate the fear of mistakenly changing one thing like flex:vertical to flex:horiz and break my whole site!also found this wishlist item which is similar:https://wishlist.webflow.com/ideas/WEBFLOW-I-2073
+19/12/2018,Jj Gacheru,It would be great to lock an element - consider how useful this is if your design has layered elements the work around i use for this is turning off the display for the element.

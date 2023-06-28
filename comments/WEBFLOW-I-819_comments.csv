@@ -1,0 +1,21 @@
+Date,Name,Comment
+30/05/2023,Casey Reid,Webflow people...please address this. I'm surprised this hasn't been worked in yet after years of people asking for it.
+22/05/2023,Brahim Sliti,Hello friends
+19/05/2023,Guillaume de GreenGo,This is really basic indeed such a pain when you make all efforts for having a great experience clean stuff and your customers download pdf and img with apojnkjfblfd55454dssqdm name in it. 6 years I see this issue is pending this doesn't sound serious really !
+31/03/2023,Jack Vanstone,Need to get on with this one becoming a joke that assets on my site load from uploads.assets.webflows-nans-garage.org/gibberishnumers32423423423-cleanpdf.pdf
+21/02/2023,ASOTU,This is a crucial element to serving images css and js with caching and web friendly images. Not sure why it is not included with webflow custom domain plans.
+07/02/2023,Kady Richardson,We use PDFs for a lot of our information here and in these cases the resources in question are PDF documents that have been uploaded to the Resources. Ideally the slug link would stay the same even if we swap out the PDF that the link directs to. Right now we have to manually change any button linked to a PDF with the "hard" location of that PDF. It would be much easier to simply edit the resource and change the PDF attached there while leaving all the other fields the same.
+23/12/2022,Rob Boyle,This is essential and holding me back from launching a project on Webflow
+03/10/2022,Chris brisson,So basic. PLEASE add this.
+15/09/2022,Savvy Navvy,This is a terrible implementation of a simple feature randomly changing file names from what is uploaded is nonsense. You need a logical name which does not have to be unique and what it names the file on download and a storage name that can have a GUID. This feature is useless as it stands.
+06/09/2022,Daniel,Webflow is an amazing product people. Please upvote if you really think this is a crucial feature!
+06/09/2022,Daniel,Has this not been resolved after 5 years because tech debt in WebFlow is so bad they can't fix this without massive code rework?
+13/08/2022,Trevin Chow,I strongly upvote this as well. In addition to the other reasons stated (SEO) this also has benefit of those of us using Cloudflare proxying to benefit from all of its benefits. Because webflow assets are served out of the assets-global.website-files.com domain this isn't owned by us so can't be proxied by cloudflare.
+03/08/2022,Samen voor Goud,We need this
+11/04/2022,Michelle Chau,It's been 5 years and this haven't been fixed yet?.. omg...
+29/03/2022,Chloe Can,Yep we need this as well!
+24/03/2022,Guest,With https://stacket.app you can have ALL assets on your Custom Domain :)
+20/12/2021,Vik Bhatt,Has this been fixed?
+09/09/2021,Tom McCabe,Dealbeaker issue for us too
+02/09/2021,Human Agency 3,Agree with what everyone has been saying. This is so unbelievably critical for SEO ranking branding and reputation.Our clients have thousands of published papers and web resources that need to be branded properly. We do not want to have to host our resources on another site... but it may come to that.
+28/06/2021,Osman Kudsi,Here's a workaround for y'all

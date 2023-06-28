@@ -1,0 +1,9 @@
+Date,Name,Comment
+01/08/2022,Jonathan Little,I would like to add further that it'd be incredibly helpful to be able to adjust the order of classes in the style manager. CSS is order specific if I create Class A and then create Class B that has new properties it will override Class A. This becomes a problem when I create global modifying classes that are used to override other properties.
+02/06/2022,Webflow Admin,Shipped—Search CSS classes in the Style Manager
+24/11/2021,Fernando Comet,Also make it exportable so you can work better with your class-naming system
+01/07/2021,Crystal Jones,It would be cool to implement this under the quick find (CMD+E or K) and add a tab that said styles.
+23/06/2021,Development DefendYoungMinds,This has got to happen. I am spending way to much time scrolling up and down my styles panel trying to find the class I want to edit.
+12/02/2021,Robert Martin,We can sort database fields by dragging them so why not the style manager too...
+04/11/2020,Gallery 44,Totally agree. Seems like such an easy thing to implement that would be so helpful to keep organized on more complex builds.
+21/04/2020,Giles Holland,Given how Webflow enforces a new style for even the tiniest local tweak in formatting you quickly end up with hundreds of styles for a realistic website. The ability to at least sort them alphabetically in the style manager is critical--it should have been a basic feature right from the beginning. The style manager is almost useless without it.

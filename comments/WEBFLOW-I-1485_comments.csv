@@ -1,0 +1,20 @@
+Date,Name,Comment
+02/08/2022,Dan Lee,Amazon seem committed to sustainability when it comes to their data centres and have commissioned their own research into the carbon efficiency of their data centres comparing them to alternatives."The carbon footprint for the same server performance on the AWS cloud is 88% lower than the median of surveyed enterprises."Source: Carbon Reduction Opportunity of Moving to AWShttps://d39w7f4ix9f5s9.cloudfront.net/e3/79/42bf75c94c279c67d777f002051f/carbon-reduction-opportunity-of-moving-to-aws.pdfFor Webflow to offer the service it provides AWS is likely the best option for cloud hosting at the scale they need. Ultimately it is in Amazon's best interest to make their data centres as efficient as possible - and that means reducing water for cooling data centres as well as energy consumption.Note: If Webflow wanted to evaluate the climate related spend analysis for AWS they can using this tool: https://github.com/thegreenwebfoundation/green-cost-explorer
+19/02/2022,Guest,You can finally host your static or CMS Webflow Site where you want with https://stacket.app/ . Then you can choose where you want to host.
+26/07/2021,Clément Bettini,WE WANT GREEN HOSTING !!! Are you not aware that the planet is burning?
+29/06/2021,Guest,Eventually I will devise a way to move away from hosting with webflow and using a green hosting company.
+08/06/2021,Katharina,Really needed Webflow should at least provide the possibility for green hosting.
+19/05/2021,Marius Haugen,My website hosted on webflow does not do it well in calculated carbon emission. I would want my website hosted on Webflow to be much greener. I will try to minimize my use of photos put the servers need to be run on cleaner energy.
+17/05/2021,Toby O. Rink,The outcry on this issue is growing and companies or even small businesses should have this on their radar. In the future it may happen that customers check a website exactly according to such criteria.
+14/05/2021,Panchette,The only way I'll use Webflow is if a green hosting plan exists with transparency about a site's carbon footprint. An absolute must.
+14/04/2021,Steve Bayer,I'm not sure and didn't use this kind of web hosting yet. But I will definitely give a try for it. If I need web hosting service then I usually try this one https://sitechecker.pro/web-hosting/vidyard.com More professional and up-to-date as well.
+11/02/2021,Simon Mélizan,This tool gives a pretty danming assement of sites hosted on Webflow. https://www.websitecarbon.com/
+29/01/2021,Kevin Scholz,I would be willing to pay the premium if that the only way to make this happen.
+19/01/2021,Gloria Yu,Agree!! Awareness on low impact websites is only going to increase from here and webflow need to be on board with this!
+16/12/2020,Óscar Martín,Wenflow should be aligned with the sustainability of the planet. To this day I still don't know if they made the transition to green and sustainable servers.
+20/11/2020,Frédéric Gosselin,Since i found out that webflow is hosted on aws i’ve had this bitter taste in my mouth. Webflow is a great company and I really wish they could get in the 20s with the rest of the world and start thinking of future generations. It’s sure gonna easier to sell hosting to my clients (let’s face it it’s quite expensive compared to other solutions) if I can had the famous green argument to my pitch.
+09/04/2020,Liz Vernon,I'd like this to be an option as well. Green hosting aligns with of a few of my clients brands and I'm split between hosting elsewhere and using Webflow.
+23/10/2019,Chiara Mensa,It's good to know that your servers are partially sustainable through Amazon however in today's climate I think we need to push for more. Are you looking into any strategy to improve on this?
+21/07/2019,Ankie Saini,I appreciate this blog which provide me easy option. Here I get new type of the hosting easily free gin rummy. This is biggest option for me. Thanks a lot
+08/10/2018,Steven Clerico,Awesome! Thanks so much for letting me know this. This is satisfying to know.
+08/10/2018,Webflow Team,Webflow doesn't have it's own servers. Instead we use both Amazon Web Servers and Fastly.com CDN.

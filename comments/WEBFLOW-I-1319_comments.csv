@@ -1,0 +1,4 @@
+Date,Name,Comment
+30/07/2018,Webflow Team,You can already do this with your domain name registrar using their "domain name forwarding" service. Here is one such example with GoDaddy:
+06/07/2018,Christoffer Furnes,See your point @Johnny Liabø this could be solved by paying an extra hosting fee for each domain that is connected to a different string other that the index page.
+01/07/2018,Johnny Liabø,I could see why they would not implement this as people could put multiple sites into the same project

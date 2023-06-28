@@ -1,0 +1,5 @@
+Date,Name,Comment
+26/02/2020,Hamish Maclean,Need an item updated hook as well. One of airtable's most valuable hooks
+29/03/2019,Martin Adams,This would be so useful for blog automation! Currently looking into this for Webflow-hosted page at Progress.org
+29/03/2019,Martin Adams,This would be so useful for blog automation! Currently looking into this for Webflow-hosted page at https://www.progress.org
+22/03/2017,Peter Schröder,i evaluated a possible workaround with using the "site_publish" webhook but since i want to use the webhook to actually publish more content that would result in a loop.

@@ -1,0 +1,21 @@
+Date,Name,Comment
+26/06/2023,Adrian Hill,Bumping. We frequently add new pages and manually updating a sitemap is unsustainable. Our big issue is excluding certain pages. We have added noindex tags but don't want them showing up on the sitemap.
+28/03/2023,Stephen,This would a very important feature for SEO to prevent Google constantly us there is errors because we've to put a no follow/no index on the pages.
+24/03/2023,Darryll Bayes,I don't see why this is such a hard thing to do. There are some pages that just shouldn't be visible as part of the sitemap. For indexing and access reasons such as thank you pages. Please make this feature work as expected.
+07/03/2023,Jon Gross,+1 on this. For websites with hundreds of pages manually updating the sitemap  is not a sustainable solution. Please let us know what the expected timing is on this feature (or a Yoast-like plugin or integration to a 3rd party tool that will accomplish the same goal)
+06/03/2023,Support,Please consider adding this SEO feature - it's crucial for bigger corporate sites that can't have all their pages listed on Google..Isn't it just adding one on/off button in the page settings?
+28/02/2023,Steve Canfield,Not being able to remove pages from the auto generated sitemap is extremely necessary. Please add this functionality Webflow!
+25/01/2023,Catalin,Make this happen guys! This is a very basic feature that should already be implemented.
+17/01/2023,Reply Media,Since this is a critial SEO feature are there any plugins to assist with this? Like the following https://rankmath.com/kb/how-to-noindex-urls/I often would love to omit marketing pages or similar from client sites
+18/10/2022,Robin Waite,Such a basic CMS feature I upload articles to my site daily so it's no practical to create and upload a new sitemap every time I make an update! Just a simple toggle to remove the hidden page from the sitemap. How hard can it be!!
+31/08/2022,Michael Wells,Totally agree but there are multiple places to impact;
+30/08/2022,Kevin Pham,The current 'Exclude this page from site search results' checkbox option should be reworded: 'Exclude this page from internal search results (Remove content from Googles index)' or similar.
+24/08/2022,Tim Ritzema,Need this feature for WebFlow's ideal use case - which is marketing sites.
+24/08/2022,Øyvind Østmo,Common people please it's such a small effort for a huge impact.
+17/08/2022,Dennis Cutraro,Seems like a relatively easy implementation. Do you plan on working on this issue soon?
+06/07/2022,JP Garza,Any news???
+01/07/2022,Mason Blake,I am happily switching from Wordpress to Webflow and I am very pleased. However when it comes to things like this I am shocked to not have an option for this. So many options but nothing to hide a file from search engines and XML sitemaps?Not having this feature means this having to deal with this set of workarounds:
+08/04/2022,Josiah Bondy,Still would really love this :) Super frustrating to have to manually update the sitemap every time we post a blog or create a new page.
+11/03/2022,Erik Runbeck,The description on this wishlist item does not fully describe what the real issue is around how these types of pages show up in sitemap.xml files.  This article (https://discourse.webflow.com/t/auto-generate-sitemap-publish-and-unpublish/38054/6) was used as a reference to create this request here.  Just adding this in for reference.
+17/11/2021,Judii Tran,Please add this. It would be greatly appreciated.
+30/09/2021,SH,Extremely important from a SEO Perspective. Please do it fast.

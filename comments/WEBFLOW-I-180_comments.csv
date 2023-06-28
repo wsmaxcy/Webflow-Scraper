@@ -1,0 +1,3 @@
+Date,Name,Comment
+14/11/2017,Nikita Shilenok,Google PageSpeed does not like it. I mean you have to act on it. When using Webflow in stead of our own hosting and CMS we expect that you guys do everything possible that I dont have to think about optimisation stuff you can take care of.
+20/01/2017,Eric Potratz,Or the option to defer or allow asynchronous loading. (which is what Google PageSpeed says we *SHOULD* do.)

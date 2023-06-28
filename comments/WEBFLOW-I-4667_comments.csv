@@ -1,0 +1,4 @@
+Date,Name,Comment
+09/08/2022,Filip Paldia,This is a similar idea:https://wishlist.webflow.com/ideas/WEBFLOW-I-1216
+29/11/2021,Joseph Amato,Yes but it's not a true shared library. For instance there is no version control. So if changes are made to a component on one project the same component on other projects is not updated.
+11/11/2021,Pavel Kukla,You can create a private password protected page for each project and use it as a library for assets. Or even dedicate an entire project just for a collection of components. Copy+paste works across projects.

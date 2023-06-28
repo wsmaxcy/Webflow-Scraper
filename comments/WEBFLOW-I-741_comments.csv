@@ -1,0 +1,3 @@
+Date,Name,Comment
+23/10/2020,Masumi Palhof,This can be accomplished with the current capabilities. I usually do this by bringing in a div block and then bring in three text blocks or headings. You can set each text to inline block or even just left float each text block. The first one you set to draw the text from the start date the second block you set to your dash (-) and your third text block is set to the end date. Then if you want it to hide the dash when no end date is set you can do that with conditional visibility and same goes with hiding it if no start date is set.
+21/06/2017,IGavel Auctions,This is highly needed. How else are you able to create a history of cms items? Example: "blog posts from 2007"

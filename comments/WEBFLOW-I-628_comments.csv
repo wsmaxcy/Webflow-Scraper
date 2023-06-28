@@ -1,0 +1,2 @@
+Date,Name,Comment
+12/02/2019,Jon Shipman,It would be pretty simple to implement across the board. A lot of pagespeed is just defering/async JS+CSS lazy loading images GZIP on static files and minifying JS+CSS. Just doing those 4 things - I've seen sites jump up 30-40 points depending on how big those components were.

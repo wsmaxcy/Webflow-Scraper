@@ -1,0 +1,2 @@
+Date,Name,Comment
+10/02/2022,Guest,When request filtering blocks an HTTP request because an HTTP request exceeds the header limits IIS 7 will return an HTTP 404 error to the client and log the following substatus that identifies the reason that the request was denied:

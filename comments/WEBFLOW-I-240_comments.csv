@@ -1,0 +1,21 @@
+Date,Name,Comment
+02/06/2023,Hey Gianluca,Was just looking for this feature and surprised it wasn't already part of the webflow functionality.
+12/03/2023,Ramy,Agreed crazy that this hasn't caught on yet but they're already thinking about making their CMS multilingual while they haven't even addressed the basic needs of a good functioning CMS...
+12/03/2023,Ramy,That this isn't addressed yet is a joke. Claiming to be one of the most user friendly & powerful CMS's that doesn't even have repeater fields for clients to use. This is very much required for almost every project. Especially for managing images on a lot of projects...
+10/11/2022,Manuel Engler,This is needed so badly!
+25/10/2022,Jonathan Wagoner,Really need this as well. Also pretty shocked this isn't something even being reviewed as it's pretty common for a CMS.I'm building out a sports website and I need to be able to show event scores. So I need a way for the content editor to reference a player and their score and keep adding that combo (player/score) for as many players were in that event. The player coming from a reference field within another collection and a score being a number field. Not really sure there is a way currently to do this since each event could have different players different scores and a different amount of players.
+07/09/2022,Ron Biton,Cmmon how come this is not part of it. I was excited using Webflow for exacly 15 minutes until I realized that.
+06/09/2022,Jon Burdon,PLEASE can we have this. For dynamic sites it's absolutely essential. The multi image field is the closest thing we have and it's just like having your hands tied.
+18/08/2022,Marc Ricketts,I think that this is basic. Instead of having to predict the number of whatever something that a user will want to include on their page or duplicate that field with 1 2 3 ... up to the limit of fields allowed the user can simply click to add an additional whatever something.
+18/08/2022,Sebastian Frommberger,This needs way more votes! Advanced Custom Fields is such a great example of how to set up dynamic and intuitiv collections for editors without over expanding an collection item.
+13/07/2022,Build Digital Studio,Praying Webflow reviews this..  Really struggling with some pretty straightforward client CMS requests.
+21/06/2022,Dylan Colby,We NEED dynamic page zones like this to create custom page layouts in the CMS. This is CRUCIAL to Webflow.
+21/04/2022,Renee Martin,This should get a high priority - every site I have built with WP uses ACF repeating fields. Am currently evaluating Webflow and have purchased a subscription to create a proof of concept. This along with inability to create hierarchal categories may be show stoppers.
+30/03/2022,Ryan,(I posted this over on the forums but thought it worth saying here too)
+25/02/2022,Wernich,We're currently reviewing Webflows limitations to see if our agency should incorporate it in into out stack. I have to say this one surprised me. So for a client to manage simple product details with repeater fields is not possible?!
+17/01/2022,Moshe Morris,I second (and third and fourth etc) the want/need for this feature.  What's more I am wondering why this request hasn't even been reviewed (at least there is no "reviewed" tag on this suggestion).  There are requests with literally only 1 vote that are marked with the review tag.  Indeed there are requests with only 1 vote that have a tag of "planning" and some with as little as 11 votes that are "in development".  And yet this is a 4 year old request with over two hundreds votes that would greatly improve the power and flexibility of the webflow cms.  As such I would like to please request that you take (another?) look at this request as well as write an update on what are webflows plans vis-a-vis this request.  Thanks :).
+18/12/2021,Yuki Tsuji,+1
+02/12/2021,Rick Erickson,It'd be in Webflow's best interest to add this functionality while Editor X is still maddeningly buggy (perhaps fatally broken) for sure!
+13/09/2021,Nelson C.,This is a must need to build scalable CMS pages
+19/07/2021,Yigit Arslan,This would be a game changer for all Webflow users. Please make this happen.
+06/07/2021,Rob Nichols,Still really want this feature.

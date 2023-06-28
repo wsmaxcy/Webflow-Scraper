@@ -1,0 +1,11 @@
+Date,Name,Comment
+20/06/2023,Nicolas Pettini,That would be a great improvement! I often bump into this issue on my sites and can't do anything about it apart from creating a rich-text field instead of a plain one...
+10/10/2022,Carl Hagbjörk,Very much needed. I'd like to import phone numbers from csv and I need them to have &nbsp; in between chunks of numbers in order for Google to recognize the number as a whole +46&nbsp;76-492&nbsp;42&nbsp;28https://developers.google.com/style/phone-numbers
+08/02/2022,Alex Dixon,Something very small but also very annoying when working with titles and such.
+28/06/2021,Lukáš Flekal,Webflow hates typography rules. Please this is esential.
+16/06/2021,Łukasz Pawluczuk,This feature needs to be done ASAP!
+12/05/2021,Jacques Coetzer,Still no solution? I'm pulling headlines from a CMS database and some of the text is being orphaned and I really REALLY hate orphaned text. I'm pretty shocked that such a basic design feature is not implemented along with quite a few others. Absolutely pathetic.
+24/04/2021,Jonatan Rønsholdt,Needed!!!
+22/02/2021,Katja Fl,Yes Please! This needs to happen asap!
+16/06/2020,Bruno Bürgi,can't believe we have to discuss the need of entering a new line in June 2020 for a cms text-field... since Feb. 2018...
+23/05/2020,Tiada Guru,Any progress on this? Such a minor but critical feature.

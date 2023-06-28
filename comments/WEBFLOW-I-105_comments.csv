@@ -1,0 +1,21 @@
+Date,Name,Comment
+19/02/2023,Tae Park,A little late to the party here as I’m new to Webflow (just prototyped my first experience yesterday) but this topic came to mind right-away as the new site that my company is building needs to be mobile-first. I had just assumed that mobile-first would already (at least) be an option and had a hard time thinking about the adjustments for each breakpoint knowing that going mobile-first would be difficult to do with Webflow.
+05/12/2022,Kyle Sandstrom,I'm surprised this isn't an option or the default as well. UI is less prone to break from an expansive perspective vs a contracting method.
+08/11/2022,Dasha Cheban,I've just touched the Webflow today and fell in love with it.
+20/06/2022,Dan Boyle,Yes. Please implement this. I'm kinda shocked this was not in the product already.
+12/06/2022,Filip Paldia,This is a must-have feature! Isn't it?
+30/05/2022,Tobias Rosman,Please do this! We have 80% traffic to mobile and it is so annoying being forced to think desktop first when that isn't our reality.
+29/01/2022,Frankie Lyon,Could not agree more. This would make my life 100x easier and make webflow so much faster and cleaner for me.
+25/01/2022,Jan-Henrik Hempel,Would be great to work in a "mobile first" way e.g. by setting the smallest/Smartphone breakpoint as default and do the inheritance/cascading up the the larger ones.
+03/01/2022,Aaron Wierenga,HNY! It's January 2022. New budgets new platforms lots of important decisions to continue or test out other platforms that adapt to the needs of designers/developers who need a mobile first option. I love the tool and would really value this critical update.
+30/11/2021,Liz Heidner,Lack of mobile first option is the only reason I haven't gone all in on Webflow yet. It's insane that there is a platform like Webflow that doesn't have that in mind.
+12/11/2021,Antoine BERNIER,An elegant solution could being able to set the "star" icon on another device for ex: the mobile one!
+23/10/2021,Ian Walker,Min-width mobile first CSS please
+23/10/2021,Ian Walker,please make mobile first approach an option in webflow. I know this will get new many new users on the platform
+23/09/2021,Nate Truniger,Come on Webflow.
+06/07/2021,Christopher Nielsen,Very disappointing to see Webflow staff @magicmark mention this approach as being "insane" with a total misrepresentation of the cascade in this thread: https://discourse.webflow.com/t/mobile-first-or-desktop-first/118545.
+24/04/2021,Michael Wandelmaier,I really want to use Webflow and it blows my mind that this isn’t at least an option in settings to change beak-points to min-width to work mobile first.
+25/03/2021,Tobias Rosman,Hi! I sort of must have this. Too much pain going back and forth between the mobile view (to see the results) and the desktop view (to make the changes). Unbearable!Please add it 🙏🏼
+27/01/2021,Taylor Wogoman,Yes Please!
+17/01/2021,Emmanuel Ikomi,Graceful degradation should not be the only option for creating responsive websites it's 2021. It's common knowledge that the majority of online traffic is now coming through mobile devices. Mobile-first design and progressive enhancement should honestly be the default responsive feature. At the very least we should be able to easily set and control media breakpoint styles within our classes.
+16/01/2021,Franco Ruarte,Almost 4 years. Hey Webflow how many votes are you waiting on this one to make it a priority?

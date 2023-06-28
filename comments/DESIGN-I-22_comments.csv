@@ -1,0 +1,14 @@
+Date,Name,Comment
+24/11/2021,TRUE,YES – that's really needed. And something that's keyboard navigable. Modals are so common and doing it custom coded all the time is a pain that shouldn't be
+21/01/2021,Marketing,If wix can figure it out you guys can too.
+05/12/2020,Jonathan Haring,Definite need now more than ever! From an accessibility standpoint modals are impossible without extensive custom coding making them extremely complex to manage over time. I get requests for modals from clients almost weekly now -- many from businesses that are opened up to potential legal liability if their websites aren't accessible and WCAG 2.0 compliant. Would be incredibly useful time-saving money saving (for clients) and accessible-friendly to have a compliant component for this!
+02/12/2019,Maverick,I'd like this too.
+28/01/2019,Alex Yates,I'd love it if you could design a CMS modal template in the same way you currently have CMS collection page templates. That way when you click a link it would populate the modal with info from the CMS.At present to do this i have to add a separate collection list to each modal which means i bump into the limit of 20 collection lists per page. It also means that every time i want to add/delete something from the modal i have to go through them one by one making the change...
+27/12/2017,Noah Raskin,This won't be necessary once they allow you to copy/paste with cross site compatibility. What I mean is you could create one or however many (with different styles and animations) and then all you'd have to do is paste the one you copied into the new site?
+24/02/2017,Jen Armstrong,Big need for me as well. Feel like this is a given but also needs ability to use cookies to not open again if the visitor comes back to the site later.
+10/02/2017,Anand Soni,+3. For me its most wanted thing.
+10/02/2017,Lee Fuhr,Fwiw here's the lightbox I painstakingly manually built (with some JS injected to handle toggling the scrollable base/background/body – another piece that should be handled by Webflow) on http://compactified.com/
+19/01/2017,John Heeter,This oversight is surprising to me.
+18/01/2017,Ed Bini,Love modals! I would even be happy with a way to save my own modals and use them across different projects.  Styling them is fun in Webflow!
+18/01/2017,Timothy Noah,Much needed feature! Like Rowan I have created so any over the past 2 years :D.
+17/01/2017,Rowan Hartsuiker,Another of my most-wanted. I create modals every day. Getting frustrated by them! But at least I'm probably one of the most skilled modal designers out there lol! We need this for SURE!

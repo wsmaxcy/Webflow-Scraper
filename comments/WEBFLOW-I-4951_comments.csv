@@ -1,0 +1,2 @@
+Date,Name,Comment
+30/03/2022,Jack Thompson,By design collections do not implement specific rules or logic for sourcing or adding Tweets leaving that strategy entirely up to you. For example if you want a collection that sources Myhdfs.com Tweets from multiple lists + a search + your own secret sauce you can build that easily using the API.

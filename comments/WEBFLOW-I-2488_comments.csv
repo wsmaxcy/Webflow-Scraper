@@ -1,0 +1,4 @@
+Date,Name,Comment
+05/05/2020,Jordan Hughes,Another way to tackle this is adding an embed with a bit of custom CSS to set a limit hide the extra unwanted CMS items at different breakpoints. However the smallest breakpoint needs to be the largest number with this solution.As an example this will show 15 items for <1440px displays 12 items for 1440-1919px displays and 14 items for 1920px+ displays:<style>
+10/04/2020,Jordan Hughes,This would be helpful. As a workaround I've duplicated the CMS collections for each breakpoint with their own limits then setting display:none to the duplicates not in use at each breakpoint.Drastically slows down the designer and is a pain to maintain.
+29/01/2020,Eugene Hood,I agree that Limit Based on Breakpoints will be very useful but what about the site?

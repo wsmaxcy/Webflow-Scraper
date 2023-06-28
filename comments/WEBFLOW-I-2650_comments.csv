@@ -1,0 +1,4 @@
+Date,Name,Comment
+23/06/2021,Simon Curwood,None of the Form fields can have their values (or Webflow screen label - "choices") come from a Collection they have to be hardcoded. So in the above example the Locations would be a collection and the user chooses from these with a radio button or select dropdown. Happy to show an example.
+23/06/2021,Webflow Admin,Thank you for submitting your idea?
+04/08/2020,R JEFFERY WILSON,I could really use this! I've racking my brain trying to hack a solution in the meantime. I was hoping for a NO CODE solution for my client but I seem to be doing is writing code. Please make this happen @webflow.

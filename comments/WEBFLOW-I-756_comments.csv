@@ -1,0 +1,20 @@
+Date,Name,Comment
+24/02/2023,Tom Breen,I need to edit .htaccess to clean up URLs in ecwid shopping cart.
+18/02/2022,Guest,Finally you can host your website in GitHub with Stacket: https://stacket.app/ allows you to upload files without any limitations!!
+28/01/2022,Bayu Candra,I need to use with react-router-dom . Not nice to have a "hashRouter"
+01/08/2021,Alfred Pries Jensen,Definetly need this!
+05/07/2021,Wendy Morris,why is this still not implemented?this is almost as bad as not having an 'undo' option in your live editor :/
+03/10/2020,Zavala,Need this to leverage browser caching if hosting happens with Webflow.
+07/07/2020,Tim Jacobs,I understand this most likely can't be done until there is a change in customer support.Is there a plan in place to strengthen the support team to allow real time access via chat?
+04/02/2020,Gonçalo.jpg,Need this feature so we can add HSTS (HTTP Strict Transport Security) to .htaccess like this: <add name="Strict-Transport-Security" value="max-age=31536000" preload/>
+25/12/2019,Yasmina Lembachar,We're moving our site over from Wordpress and have a number of rewrite rules in our current .htaccess that would also need to be carried over so this would be great!
+28/08/2019,Tommy Fafard,Cmon Guys this is urgent matter.
+06/08/2019,Marcel Deelen,We are running in some issues regarding SEO and setting Cashing rules for a number of websites because of the lack of being able to alter the .htaccess file. For me to keep on pushing Webflow to our larger clients this is one of the things that are deal breakers especially when I sit around the table with our SEO team.
+05/08/2019,Armin Hadziomerovic,Voting for this - not having .htaccess is amateur level - not only are you killing SEO value but preventing people from switching.
+20/07/2019,Josh Williams,Chipping in a vote for this feature. I'm working in the wine industry a bit and (sadly) we cannot use the built in webflow ecommerce features due to the unique requirements of shipping and distributing to wine lists over the internet.
+10/10/2018,Colin Smith,I'm having trouble with svg inside <img> tag on front facing site looks fine in the editor though.
+21/06/2018,Tomas Petersen,For better SEO and cache rules
+15/01/2018,Michael Victor Schneider,We NEED this!
+22/08/2017,Anon,Webflow please implement this for all us who need every advantage over our competitors.  Higher rankings for us means more success (and more $$$).
+22/08/2017,Gregory Shevchenko,Need this feature for better SEO! Thank you.
+22/06/2017,Louis Cloutier,We need this feature for a better seo.

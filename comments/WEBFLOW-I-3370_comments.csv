@@ -1,0 +1,4 @@
+Date,Name,Comment
+28/06/2021,Webflow Admin,Thanks for the report. Confirmed that webhooks will be covered in our annual security review performed by external reviewers so with that information this item is going to be closed. Any flaws or security issues brought up will be dealt with swiftly.
+07/11/2020,Faraz Khan,Webflow webhook has too many security flaws.1. Should definitely remove the webhook list api so that other integrations can not see it2. Should also have a way to authenticate on the server where the request is being sent to so that the server knows where the request is coming from and if its a valid request or notUsing the webhook listing api a third party integration can send invalid data to other webhooks
+09/10/2020,Hyphae Admin,what are you proposing as a solution? disable "list-webhooks"?

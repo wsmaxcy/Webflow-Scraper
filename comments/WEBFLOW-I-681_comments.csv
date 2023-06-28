@@ -1,0 +1,3 @@
+Date,Name,Comment
+18/09/2018,Derek Long,Completely agree. rem's can be used in the designer but they are sort of useless if we aren't able to style the HTML element.
+10/09/2018,Vincent Bidaux,I use rem and I'd like to set html properties without having to resort to custom code too. @polina if you're using a custom code component from the Add+ menu you'll see the changes in real time inside of the designer.

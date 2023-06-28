@@ -1,0 +1,4 @@
+Date,Name,Comment
+16/11/2022,JoseJuan Lopez,Still not implemented after 5 years?
+25/11/2020,Paul Malan,Weird that this isn't available by default -- along with the ability to add hidden fields to a form. Needlessly complicated working around this!
+20/05/2019,Zack Olivas,I would like to add to this:Dynamically set form field with url parameters.Example:Hidden field ID: utm_campaignURL: www.yourwebsite.com/?utm_campaign=big%20eventUpon loading the page the hidden field will be populated with: "big event"

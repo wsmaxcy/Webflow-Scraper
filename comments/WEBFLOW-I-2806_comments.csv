@@ -1,0 +1,16 @@
+Date,Name,Comment
+05/06/2023,Team Shift,1000000% we have to redo so much work on our custom integrations because of this!
+31/05/2023,Riley Brown,I just spent a full day working through issues caused by backing up my site by a few minutes and losing all of my IDs. Lesson learned. Webflow's site backup feature is currently useless in my case! Can't be losing all of my connections.
+26/07/2022,The Main Line Fly Tyers,Crickets.  There should at least be an official release now so developers can move away from Webflow now before getting deeper in the quicksand.  Yes? Not now? Never?  What is the deal?
+11/06/2022,Ostmodern Support,Any update on this ?  Is a fix even under consideration ?
+11/06/2022,Hrag Sarkissian,Also ... why is the warning message that item id's can change ??  afaiks they always change on a restore ?  Kind of gives a glimmer of hope when none exists.
+11/06/2022,Hrag Sarkissian,This is a deal breaker for us continuing to use Webflow.  As i'm sure you are aware any integrations rely heavily on collection and item ids' . (as your api relies heavily on these!).   Is this likely to ever be addressed ?  If no we are out.
+07/04/2022,Andre,Wasnt aware of it. Have to update 600 item now in Airtaible and integromat.
+22/07/2021,SH,How much time does Webflow take to fix a small bug that could be fixed in 1-2 hours? Cause it's been over an year now.
+09/07/2021,Speakeasy,My team experienced this issue recently. I created another wishlist item with some ideas for addressing it and would love your votes or feedback on it!
+07/06/2021,Edgaras Benediktavicius,This just killed my whole project IDs...
+12/04/2021,Lukas Van Orshoven,This is unbelievable
+06/03/2021,Lindsay Monroe,There should be a warning!!! I have such a mess to clean up now. Terrible.
+27/11/2020,George Kazakos,I have just experienced this almighty ball-ache! Because of this my automated Zapier process failed and new users didn't have log in pages!!! Why the hell would item IDs change?!
+04/10/2020,Austin Hay,Experienced this pain today too. jesus.
+23/09/2020,Rick Lindquist,I've now felt this pain. It is not a good feeling.
